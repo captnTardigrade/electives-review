@@ -22,11 +22,10 @@ app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "ejs");
 app.use(express.static(path.join(__dirname, "public")));
 app.engine("ejs", engine);
+app.use(express.urlencoded({ extended: true }));
 
 app.use("/", userRoutes);
 app.use("/electives", electiveRoutes);
-app.use("/electives/:id/reviews", electiveRoutes);
-app.use(express.urlencoded({ extended: true }));
 
 app.get("/", async (req, res) => {
   const electives = await Elective.find({});

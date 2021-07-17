@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const ReviewSchema = new mongoose.Schema({
   date: {
     type: Date,
-    required: true,
+    default: Date.now,
   },
   body: {
     type: String,
