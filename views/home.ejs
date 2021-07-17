@@ -1,0 +1,23 @@
+<%- layout("layouts/boilerplate") %>
+    <% for(let elective of electives) { %>
+        <div class="card mb-3 p-3">
+            <div class="card-body">
+                <div class="card-title">
+                    <div class="row">
+                        <div class="col-8">
+                            <%= elective.name.toUpperCase() %>
+                        </div>
+                        <div class="col-4">
+                            <p class="starability-result" data-rating="3">
+                                Rated: 3 stars
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <p class="card-text">
+                    <%= elective.description %>
+                </p>
+                <a href="/electives/<%= elective._id %>" class="btn btn-success">Details</a>
+            </div>
+        </div>
+        <% } %>
