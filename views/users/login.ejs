@@ -1,32 +1,32 @@
 <%- layout("layouts/boilerplate") %>
-
-    <div class="row">
-        <div class="col-sm-4 offset-sm-4 col-xl-6 offset-xl-3">
-            <div class="card shadow">
-                <div class="card-img-top">
-                    <img src="https://images.unsplash.com/photo-1618588507085-c79565432917?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1072&q=80"
-                        class="img-fluid" alt="">
-                </div>
-                <div class="card-body">
-                    <form action="/login" method="post" class="validate-form" novalidate>
-                        <div class="form-floating mb-3">
-                            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com"
-                                required>
-                            <label for="floatingInput">Email address</label>
-                            <div class="valid-feedback">
-                                Looks good!
+    <%- include("../partials/flash") %>
+        <div class="row">
+            <div class="col-sm-4 offset-sm-4 col-xl-6 offset-xl-3">
+                <div class="card shadow">
+                    <div class="card-img-top">
+                        <img src="https://images.unsplash.com/photo-1618588507085-c79565432917?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1072&q=80"
+                            class="img-fluid" alt="">
+                    </div>
+                    <div class="card-body">
+                        <form action="/login" method="post" class="validate-form" novalidate>
+                            <div class="form-floating mb-3">
+                                <input type="email" class="form-control" id="floatingInput"
+                                    placeholder="name@example.com" name="email" required>
+                                <label for="floatingInput">Email address</label>
+                                <div class="valid-feedback">
+                                    Looks good!
+                                </div>
                             </div>
-                        </div>
-                        <div class="form-floating mb-3">
-                            <input type="password" class="form-control" id="floatingPassword" placeholder="Password"
-                                required>
-                            <label for="floatingPassword">Password</label>
-                        </div>
-                        <div class="d-grid gap-2">
-                            <button class="btn" id="login-form-button" type="submit">LOGIN</button>
-                        </div>
-                    </form>
+                            <div class="form-floating mb-3">
+                                <input type="password" class="form-control" id="floatingPassword" placeholder="Password"
+                                    name="password" required>
+                                <label for="floatingPassword">Password</label>
+                            </div>
+                            <div class="d-grid gap-2">
+                                <button class="btn" id="login-form-button" type="submit">LOGIN</button>
+                            </div>
+                        </form>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
