@@ -19,16 +19,19 @@ module.exports.renderSignupForm = (req, res) => {
 module.exports.signup = async (req, res, next) => {
   const { name, email, password } = req.body;
   const newUser = new User({ username: email, name });
+  const flag = false;
   const registeredUser = await User.register(newUser, password).catch((e) => {
     req.flash("error", e.message);
     res.redirect("/signup");
-    return;
+    flag = true;
   });
-  req.login(registeredUser, (err) => {
-    if (err) return next(err);
-    req.flash("success", "Registered successfully");
-    res.redirect("/");
-  });
+  if (!flag) {
+    req.login(registeredUser, (err) => {
+      if (err) return next(err);
+      req.flash("success", "Registered successfully");
+      res.redirect("/");
+    });
+  }
 };
 
 module.exports.logout = (req, res) => {
