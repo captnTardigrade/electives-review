@@ -27,6 +27,18 @@ const ElectiveSchema = new mongoose.Schema({
       ref: "Review",
     },
   ],
+  totalRating: {
+    type: Number,
+    default: 0,
+  },
 });
 
+ElectiveSchema.virtual("averageRating")
+  .get(function () {
+    return this.reviews.length ? Math.round((this.totalRating / this.reviews.length) * 100) / 100
+    : 0;
+  })
+  .set(function (val) {
+    this.totalRating += val;
+  });
 module.exports = mongoose.model("Elective", ElectiveSchema);

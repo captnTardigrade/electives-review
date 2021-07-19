@@ -19,6 +19,7 @@ module.exports.createReview = async (req, res) => {
   const newReview = new Review(review);
   newReview.author = req.user;
   elective.reviews.push(newReview);
+  elective.averageRating = Number.parseInt(rating);
   await newReview.save();
   await elective.save();
   res.redirect(`/electives/${id}`);
@@ -27,7 +28,7 @@ module.exports.createReview = async (req, res) => {
 module.exports.updateReview = async (req, res) => {
   const { id, reviewId } = req.params;
   const { rating, body } = req.body.review;
-  // const elective = await Elective.findById(id);
+  const elective = await Elective.findById(id);
   const review = {
     rating,
     body,
@@ -37,8 +38,12 @@ module.exports.updateReview = async (req, res) => {
   if (error) {
     throw new ExpressError(error.details[0].message, 500);
   }
-  const newReview = await Review.findByIdAndUpdate(reviewId, review);
-  await newReview.save();
+  const newReview = await Review.findByIdAndUpdate(reviewId, review, {
+    returnOriginal: true,
+  });
+  elective.averageRating = rating - newReview.rating;
+  // console.log(elective.averageRating);
+  await elective.save();
   res.redirect(`/electives/${id}`);
 };
 
