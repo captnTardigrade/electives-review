@@ -85,6 +85,10 @@ app.get("/", async (req, res) => {
   res.render("home", { electives });
 });
 
+app.get("/stars", (req, res) => {
+  res.render("test");
+})
+
 app.get("*", (req, res) => {
   throw new ExpressError("Page Not Found", 404);
 });

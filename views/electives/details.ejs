@@ -5,9 +5,9 @@
     </script>
 
     <div class="p-5 mb-4 bg-light rounded-3">
-        <div class="container-fluid py-5">
+        <div class="container-fluid d-flex py-5">
             <div class="row align-items-center">
-                <div class="col-9">
+                <div class="col-md-9 text-center text-md-start col-sm-12">
                     <h1 class="display-5 fw-bold">
                         <%= elective.name.toUpperCase() %>
                     </h1>
@@ -15,7 +15,7 @@
                         <%= elective.description %>
                     </p>
                 </div>
-                <div class="d-flex flex-column col-3 align-items-center">
+                <div class="d-flex flex-column col-md-3 align-items-center">
                     <p class="starability-result" data-rating="<%= Math.floor(elective.averageRating) %>">
                         Rated: <%= Math.floor(elective.averageRating) %> stars
                     </p>
