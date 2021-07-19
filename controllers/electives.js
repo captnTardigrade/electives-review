@@ -1,4 +1,5 @@
 const Elective = require("../models/elective");
+const ExpressError = require("../utils/ExpressError");
 
 module.exports.electiveDetails = async (req, res) => {
   const { id } = req.params;
@@ -6,6 +7,9 @@ module.exports.electiveDetails = async (req, res) => {
     path: "reviews",
     populate: { path: "author" },
   });
+  if (!elective) {
+    throw new ExpressError("Cannot find that elective", 404);
+  }
   let userReview;
   let otherReviews;
   if (req.user) {

@@ -7,9 +7,11 @@
                         <%= err.message %>
                     </h3>
                 </div>
-                <hr>
                 <div class="card-text">
-                    <%= err.stack %>
+                    <hr>
+                    <% if (process.env.NODE_ENV !=="production" ) { %>
+                        <%= err.stack %>
+                            <% } %>
                 </div>
             </div>
         </div>

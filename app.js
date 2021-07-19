@@ -1,3 +1,7 @@
+if (process.env.NODE_ENV !== "production") {
+  require("dotenv").config();
+}
+
 const express = require("express");
 const path = require("path");
 const engine = require("ejs-mate");
@@ -14,8 +18,12 @@ const session = require("express-session");
 const passport = require("passport");
 const LocalStrategy = require("passport-local");
 const ExpressError = require("./utils/ExpressError");
+const MongoDBStore = require("connect-mongo");
 
-mongoose.connect("mongodb://localhost:27017/electives-review", {
+const dbUrl =
+  process.env.MONGO_DB_URL || "mongodb://localhost:27017/electives-review";
+
+mongoose.connect(dbUrl, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
@@ -35,13 +43,18 @@ app.use(express.urlencoded({ extended: true }));
 app.use(
   session({
     secret: process.env.SECRET || "91CC97C2D91EF5C9227537666B5E3",
+    store: MongoDBStore.create({
+      mongoUrl: dbUrl,
+      touchAfter: 24 * 60 * 60,
+      crypto: {
+        secret: process.env.SECRET || "91CC97C2D91EF5C9227537666B5E3",
+      },
+    }),
     cookie: {
-      maxAge: 24 * 60 * 60 * 1000,
+      maxAge: 7 * 24 * 60 * 60 * 1000,
     },
-    // TODO: Verify the settings with the session store
-    // at the time of production
     resave: false,
-    saveUninitialized: true,
+    saveUninitialized: false,
   })
 );
 
