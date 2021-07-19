@@ -42,15 +42,21 @@ module.exports.updateReview = async (req, res) => {
     returnOriginal: true,
   });
   elective.averageRating = rating - newReview.rating;
-  // console.log(elective.averageRating);
   await elective.save();
   res.redirect(`/electives/${id}`);
 };
 
 module.exports.deleteReview = async (req, res, next) => {
   const { id, reviewId } = req.params;
-  await Elective.findByIdAndUpdate(id, { $pull: { reviews: reviewId } });
-  await Review.findByIdAndDelete(reviewId).catch((e) => next(e));
+  const elective = await Elective.findByIdAndUpdate(id, {
+    $pull: { reviews: reviewId },
+  });
+  const review = await Review.findByIdAndDelete(reviewId, { new: false }).catch(
+    (e) => next(e)
+  );
+  elective.averageRating = -1 * review.rating;
+  console.log(elective.averageRating);
+  await elective.save();
   req.flash("success", "Successfully deleted review");
   res.redirect(`/electives/${id}`);
 };

@@ -2,9 +2,9 @@ const Elective = require("../models/elective");
 const dummyData = require("../seeds/dummy_data.json");
 const mongoose = require("mongoose");
 
-// if (process.env.NODE_ENV !== "production") {
-//   require("dotenv").config();
-// }
+if (process.env.NODE_ENV !== "production") {
+  require("dotenv").config();
+}
 
 mongoose.connect(process.env.MONGO_DB_URL || "mongodb://localhost:27017/electives-review", {
   useNewUrlParser: true,
