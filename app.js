@@ -3,17 +3,17 @@ const path = require("path");
 const engine = require("ejs-mate");
 const mongoose = require("mongoose");
 const flash = require("connect-flash");
+const methodOverride = require("method-override");
 const app = express();
 const Elective = require("./models/elective");
 const User = require("./models/user");
 const userRoutes = require("./routes/users");
+const reviewRoutes = require("./routes/reviews");
 const electiveRoutes = require("./routes/electives");
 const session = require("express-session");
 const passport = require("passport");
 const LocalStrategy = require("passport-local");
 const ExpressError = require("./utils/ExpressError");
-
-const { isLoggedIn } = require("./middleware");
 
 mongoose.connect("mongodb://localhost:27017/electives-review", {
   useNewUrlParser: true,
@@ -30,6 +30,7 @@ app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "ejs");
 app.use(express.static(path.join(__dirname, "public")));
 app.engine("ejs", engine);
+app.use(methodOverride("_method"));
 app.use(express.urlencoded({ extended: true }));
 app.use(
   session({
@@ -65,6 +66,7 @@ app.use((req, res, next) => {
 
 app.use("/", userRoutes);
 app.use("/electives", electiveRoutes);
+app.use("/electives/:id/reviews", reviewRoutes);
 
 app.get("/", async (req, res) => {
   const electives = await Elective.find({});

@@ -40,7 +40,9 @@
                     <div class="card-text">
                         <%= userReview.body %>
                     </div>
-                    <a class="btn btn-danger float-end ">Delete</a>
+                    <form action="/electives/<%= elective._id %>/reviews/<%= userReview._id %>?_method=DELETE" method="post">
+                        <button class="btn btn-danger float-end">Delete</button>
+                    </form>
                     <a class="btn btn-info text-white me-2 float-end" id="edit">Edit</a>
                 </div>
             </div>

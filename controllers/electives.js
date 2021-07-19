@@ -6,5 +6,15 @@ module.exports.electiveDetails = async (req, res) => {
     path: "reviews",
     populate: { path: "author" },
   });
-  res.render("electives/details", { elective });
+  let userReview;
+  let otherReviews;
+  if (req.user) {
+    userReview = elective.reviews.find((review) =>
+      review.author.equals(req.user._id)
+    );
+    otherReviews = elective.reviews.filter(
+      (review) => !review.author.equals(req.user._id)
+    );
+  }
+  res.render("electives/details", { elective, userReview, otherReviews });
 };

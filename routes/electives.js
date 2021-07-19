@@ -4,9 +4,12 @@ const electives = require("../controllers/electives");
 const reviews = require("../controllers/reviews");
 const router = express.Router({ mergeParams: true });
 
+const { hasReviewedElective, isLoggedIn } = require("../middleware");
+
 router
   .route("/:id")
   .get(catchAsync(electives.electiveDetails))
-  .post(catchAsync(reviews.createReview));
+  .post(isLoggedIn, hasReviewedElective, catchAsync(reviews.createReview));
+
 
 module.exports = router;
