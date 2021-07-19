@@ -1,17 +1,17 @@
-let editButton = document.querySelector(".edit-button");
+let editButton = document.querySelector("#edit");
 const currentReview = document.querySelector("#current-review");
 
 const currentReviewHTML = currentReview.innerHTML;
 const toggleForm = () => {
   currentReview.innerHTML = `
       <div class="card shadow p-3 mb-3">
-                  <form action="/electives/${electiveId}/reviews/${review._id}" class="validate-form" method="POST" novalidate>
+                  <form action="/electives/${electiveId}/reviews/${review._id}?_method=PUT" class="validate-form" method="POST" novalidate>
                       <div class="form-floating my-3">
                           <textarea class="form-control" placeholder="Leave a comment here" name="review[body]"
                               id="floatingTextarea2" style="height: 100px" required>${review.body}</textarea>
                           <label for="floatingTextarea2">Share your thoughts</label>
                       </div>
-                      <button type="button" class="btn btn-danger float-end cancel-button">Cancel</button>
+                      <button type="button" class="btn btn-danger float-end" id="cancel">Cancel</button>
                       <button class="btn btn-info text-white me-2 float-end" >Save</button>
                       <fieldset class="starability-basic mb-3">
                           <h5>Rating</h5>
@@ -30,11 +30,11 @@ const toggleForm = () => {
                       </fieldset>
                   </form>
               </div>`;
-  const cancelButton = document.querySelector(".cancel-button");
+  const cancelButton = document.querySelector("#cancel");
   cancelButton.addEventListener("click", () => {
     currentReview.innerHTML = currentReviewHTML;
     editButton = document
-      .querySelector(".edit-button")
+      .querySelector("#edit")
       .addEventListener("click", toggleForm);
   });
 };
