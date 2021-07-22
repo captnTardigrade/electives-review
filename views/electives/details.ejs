@@ -14,6 +14,9 @@
                     <p class="col-md-8 fs-4">
                         <%= elective.description %>
                     </p>
+                    <hr>
+                    <p class="h5">Credits: <%= elective.credits %></p>
+                    <a href="<%= elective.url %> ">View course PDF <img class="external-link-icon" src="/images/external_link_icon.svg" alt=""></a> 
                 </div>
                 <div class="d-flex flex-column col-md-3 align-items-center">
                     <p class="starability-result" data-rating="<%= Math.floor(elective.averageRating) %>">
