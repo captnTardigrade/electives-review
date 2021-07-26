@@ -10,14 +10,14 @@ const ElectiveSchema = new mongoose.Schema({
     required: true,
   },
   credits: {
-    type: Number,
+    type: String,
     required: true,
   },
   description: {
     type: String,
     required: true,
   },
-  url: {
+  gradLevel: {
     type: String,
     required: true,
   },
@@ -35,10 +35,15 @@ const ElectiveSchema = new mongoose.Schema({
 
 ElectiveSchema.virtual("averageRating")
   .get(function () {
-    return this.reviews.length ? Math.round((this.totalRating / this.reviews.length) * 100) / 100
-    : 0;
+    return this.reviews.length
+      ? Math.round((this.totalRating / this.reviews.length) * 100) / 100
+      : 0;
   })
   .set(function (val) {
     this.totalRating += val;
   });
+
+ElectiveSchema.virtual("url").get(function () {
+  return `https://iittp.ac.in/pdfs/syllabus/${this.code}.pdf`;
+});
 module.exports = mongoose.model("Elective", ElectiveSchema);

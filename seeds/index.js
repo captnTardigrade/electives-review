@@ -1,5 +1,7 @@
 const Elective = require("../models/elective");
-const dummyData = require("../seeds/dummy_data.json");
+const dummyData = require("./dummy_data.json");
+const ug_electives = require("./ug_electives_data.json");
+const pg_electives = require("./pg_electives_data.json");
 const mongoose = require("mongoose");
 
 if (process.env.NODE_ENV !== "production") {
@@ -19,7 +21,14 @@ db.once("open", function () {
 
 const seedDB = async () => {
     await Elective.deleteMany({});
-    for(let elective of dummyData) {
+    for(let elective of ug_electives) {
+        elective.reviews = [];
+        const el = new Elective(elective);
+        el.credits = el.credits % 5 + 1;
+        await el.save();
+    }
+    for(let elective of pg_electives) {
+        elective.reviews = [];
         const el = new Elective(elective);
         el.credits = el.credits % 5 + 1;
         await el.save();

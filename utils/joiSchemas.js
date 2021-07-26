@@ -4,9 +4,9 @@ module.exports.electiveSchema = Joi.object({
   elective: {
     name: Joi.string().required(),
     code: Joi.string().regex(RegExp("[A-Z]{2}d{4}")).required(),
-    credits: Joi.number().required(),
+    credits: Joi.string().regex(RegExp("\d-\d-\d-\d")).required(),
     description: Joi.string().required(),
-    url: Joi.string().required(),
+    gradLevel: Joi.string().required()
   },
 });
 
