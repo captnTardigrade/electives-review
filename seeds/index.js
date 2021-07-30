@@ -1,6 +1,5 @@
 const Elective = require("../models/elective");
-const dummyData = require("./dummy_data");
-const electivesData = require("./all_courses_data");
+const electivesData = require("./all_electives");
 const mongoose = require("mongoose");
 
 if (process.env.NODE_ENV !== "production") {

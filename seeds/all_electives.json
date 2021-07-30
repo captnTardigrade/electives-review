@@ -1,0 +1,1786 @@
+[
+  {
+    "name": "Advanced Structural Analysis",
+    "code": "CE3021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Review of Flexibility method of analysis \u2013 consistent deformation, matrix formulation, temperature; Displacement based approach \u2013 stiffness method, matrix formulation; Comparison between stiffness and flexibility based methods; Kani\u2019s method of analysis of framed structures; Cable structures; Introduction to plastic analysis of structures. lack of fit, support settlement, effect of"
+  },
+  {
+    "name": "Concrete Technology",
+    "code": "CE3111",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Content words): Concrete composition: Cement \u2013 composition, production, types, and properties - testing for fineness, consistency, strength, and soundness; Aggregates \u2013 types, properties and testing, Admixtures \u2013 chemical and mineral; Concrete mix proportioning \u2013 special concrete. Behavior of concrete: Fresh concrete \u2013 properties \u2013 workability \u2013 slump test, flow test, compacting factor test \u2013 Creep and shrinkage \u2013 Durability \u2013 Testing of hardened concrete \u2013 compression test, flexure test, split tensile strength, NDT"
+  },
+  {
+    "name": "Groundwater Hydrology",
+    "code": "CE5021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: Role of groundwater in the hydrologic cycle, problems and perspectives. Occurrence and movement of groundwater, hydrogeology of aquifers, Darcy's law, general flow equations. Groundwater and Well Hydraulics: steady and unsteady radial flows in aquifers, partially penetrating wells, characteristic well losses, specific capacity. Surface and Subsurface investigations of Groundwater: Geologic methods, remote sensing, geophysical exploration, electrical resistivity and seismic refraction, logging techniques. Water wells: methods of construction, yield tests, protection and rehabilitation of wells. Management of Groundwater: concepts of basin management, conjunctive use, mathematical modelling, artificial groundwater recharge: concepts, recharge methods, recharge mounds, induced recharge. Saline water intrusion in aquifers"
+  },
+  {
+    "name": "Traffic Flow Modeling and\rSimulation",
+    "code": "CE5022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Traffic Flow Characteristics: Macroscopic and microscopic traffic flow variables, time-space and generalized measurement regions, cumulative curves. Traffic Flow Models: General classification. Macroscopic Flow Models: Continuity equation, LWR model, higher order models. Mesoscopic Flow Models: Gas kinetic theory. Microscopic Flow Models: Car following and lane changing. Modeling at roundabouts. Pedestrian Junctions/Intersections: Un-signalized and signalized, Modeling. Traffic Simulation: Probability distributions, random number generation, generation of inputs \u2013 vehicle arrivals, vehicle characteristics, road geometrics, different traffic simulation models (macroscopic and microscopic), microscopic traffic simulator (VISSIM). types of"
+  },
+  {
+    "name": "Integrated Impact Assessment",
+    "code": "CE5023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction and an overview of Integrated Impact Assessment (IIA) \u2014 Sustainable Development challenges and need for IIA; Key Approaches of IIA and current practices, changing perspectives and debate in IIA; Environmental Impact Assessment (EIA) \u2014 Environmental clearance procedures, Environmental Management Plan; EIA case study for various infrastructure and industrial projects; Social Impact Assessment, Resettlement & rehabilitation and development; Health Impact Assessment (HIA), Impact of environment on health, tools and techniques in HIA, Case Study; Emerging Dimensions & Future Directions \u2014 Strategic Environmental Assessment, Environmental Risk Assessment, Life Cycle Analysis; Monitoring and Evaluation \u2014 Basic concepts, guidelines, tools, evaluation designs and its applications."
+  },
+  {
+    "name": "Solid and Hazardous Waste\rManagement",
+    "code": "CE5024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Definitions of solid waste - municipal, hospital and industrial solid waste - Legal issues - Sampling and characterization \u2013 Integrated management of solid waste-reduction at the source, recovery/recycling, container compatibility, waste storage requirements, transportation of solid wastes. Treatment solid wastes\u2013composting, vermin-composting, and disposal autoclaving, microwaving, incineration, non-incineration thermal techniques, use of refuse-derived fuels, landfilling design. and disposal- Collection techniques- waste techniques for"
+  },
+  {
+    "name": "Water Resources Planning and\rManagement",
+    "code": "CE5025",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: history of water resources development, water resources of India, problems and perspectives, conceptual framework. Economics of Water resources planning: cost-benefit analysis of water resources projects and water allocation. Uncertainty concepts in Water Resources Planning: methods for uncertainty analysis and applications. Systems Analysis: systems concepts, conventional and evolutionary optimization techniques, interfacing optimizers with process simulators for design and management applications, applications to water resources planning and management problems. Flood mitigation and management: structural and nonstructural measures, optimal flood mitigation plan, flood damage estimation. Optimal planning and operation of reservoirs, planning, decision support systems, sustainable development of water resources."
+  },
+  {
+    "name": "GIS and Remote Sensing",
+    "code": "CE5026",
+    "status": "Elective",
+    "credits": "1-0-3-3",
+    "gradLevel": "PG",
+    "description": "Introduction to principles of Remote Sensing (RS) technology, the tool to obtain information on the earth from decimeter level to km level locally and globally, as well as basic remote sensing image processing techniques and skills; Introduction to principles, concepts and applications of Geographic Information Systems (GIS): a decision support tool for planners and managers of spatial information; Database development, manipulation and spatial analysis techniques for information generation; GIS applications such as natural resource management, environment, transportation engineering, agriculture, information system, etc will be discussed through mini project and laboratory exercises."
+  },
+  {
+    "name": "Geotechnical Investigations and\rFoundation Design",
+    "code": "CE5027",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Site Investigation: stages of site investigation, codal provisions; Drilling methods in soils and rocks; Sampling techniques in soils and rocks; Laboratory tests and interpretation; Field tests: SPT, DCPT, SCPT, in-situ vane shear test, pressuremeter test, dilatometer test; Geophysical methods; Shallow Foundations: types, design considerations, codal provisions; Bearing capacity of soils and rocks from field and laboratory tests, total and differential settlements; Pile foundations: types of piles, construction methods, codal provisions; Axial capacity of single pile and pile groups; Settlement of single piles and pile groups; Uplift capacity, lateral load capacity, and negative skin friction of piles and pile groups."
+  },
+  {
+    "name": "Earthquake and Wind Engineering",
+    "code": "CE5028",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to seismology, earthquake resistant design philosophy; Response spectrum analysis; Nonlinear static pushover analysis and dynamic analysis; Finite element modelling in earthquake engineering; Codal provisions for seismic design of reinforced concrete/steel structures and storage tanks; Introduction to seismic risk and hazard, performance based earthquake engineering; Introduction to wind engineering, discussions on IS-875 (Part-III) codal provisions for industrial buildings, space trusses and transmission line tower; Along wind and across wind response in slender structures; Static and dynamic effect of wind on structures."
+  },
+  {
+    "name": "Nondestructive Testing and Health\rMonitoring of Civil Structures",
+    "code": "CE5029",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction \u2013 necessity of NDE and SHM; Fundamental differences between NDE and SHM philosophies; Causes of degradation in concrete and steel structures; General methods of NDT of civil engineering structures according to Indian Standards; Sensor based SHM of civil structures \u2013 optical, piezoelectric and non-contact approaches; Imaging as a tool for NDT \u2013 A scan, B- scan, C-scan, time of flight based reconstruction, synthetic aperture focusing technique; Electromagnetic imaging \u2013 fundamentals, ground penetrating radar; Thermography \u2013 fundamentals, Infrared thermography; Elastic wave based methods \u2013 impact echo; Ultrasonics \u2013 fundamentals, instrumentation, imaging methodologies; Future directions."
+  },
+  {
+    "name": "Random Vibrations and Structural\rReliability",
+    "code": "CE5030",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Review of probability; Random variables - moments, probability density function and distribution functions, Central theorem; Random processes - stationary and nonstationary random processes, ergodicity, power spectral density, Weiner Kinchine relation, Gaussian and Markov processes; Random vibrations - Review of results in dynamics, input-output relations in time and frequency domain, Markov vector approach \u2013 Fokker Plank Kolmogorov (FPK) equation, failure - level crossing, first passage time, peak distributions, fatigue; Reliability analysis \u2013 performance function and limit states, probability based design, systems in series and parallel, first and second order reliability method (FORM and SORM), response surface methods, adaptive and importance sampling methods, subset simulation, component and system reliability."
+  },
+  {
+    "name": "Environmental Risk Assessment",
+    "code": "CE5031",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to environmental health and risk assessment (EHRA), principles and processes of EHRA, exposure assessment, hazard identification, dose- response evaluation, risk characterization, and risk management; Environmental health risk evaluation and management; Application of a risk assessment framework to characterise environmental health risks, inform risk management and risk communication; Environmental epidemiology, epidemiological criteria, descriptive epidemiology, analytical epidemiology, study design and common methods in environmental epidemiology like experimental and observational. Regulatory issues in risk assessment; Scientific basis for policy decisions; and emerging global environmental health problems. safety management; Case studies. Industrial occupational health and"
+  },
+  {
+    "name": "Pavement Materials & Construction",
+    "code": "CE5101",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG PG",
+    "description": "The course will cover the following: \uf0b7 Roadway Materials, Performance Tests, & Parametric Relationships \uf0b7 Soils, Geotechnical Testing, Sub-base, & Base Preparation in relation to pavement pre- construction activities \uf0b7 HMA Plant Operations, Mix Delivery, Placement, Joint Construction, Compaction PCC Production, Plant Operations, Paving Techniques, PCC Curing & Sawing \uf0b7 \uf0b7 Traffic Management During Pavement Construction \uf0b7 Project Organization and Quality Assurance (QA) / Quality Control (QC) \uf0b7 Documents, Preconstruction / Pre-paving Conferences, Database Management \uf0b7 Definitions, Specifications, Statistical Sampling, QC Charts \uf0b7 Problem Solving during & after Construction, Performance Criteria, Sustainability"
+  },
+  {
+    "name": "Structural Dynamics",
+    "code": "CE5102",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "words): Introduction - degrees of freedom, energy storage elements \u2013 mass, spring and damper, equations of motion ; Single degree of freedom system (SDOF/sdof) - undamped and damped, free and forced vibration analysis \u2013 natural frequency, critical damping, transient and steady state, resonance, Duhanmel\u2019s integral; Multiple degrees of freedom system (MDOF/mdof) - modal analysis and orthogonality conditions; Continuous systems (distributed parameter systems); Approximate methods - Rayleigh\u2019s quotient, Rayleigh-Ritz method; Applications - earthquake engineering, random vibration"
+  },
+  {
+    "name": "Advanced Mechanics of Solids",
+    "code": "CE5103",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "words): Introduction; Theory of Stress; Kinematics; Isotropic Linear Elastic Solids; Anisotropic Linear Elastic Solids; Boundary Value Problems; Plane Elasticity; Boundary Value Problems in Polar Coordinates; Torsion; Bending; Elastic Wave Propagation."
+  },
+  {
+    "name": "Environmental Chemistry",
+    "code": "CE5111",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "The unique properties and structure of water; Basic concepts in aquatic chemistry: Chemical equations and reactions; Chemical equilibrium; Fundamentals of acid-base equilibria, Acidity; Alkalinity; Carbonic acid system; Buffering in water systems; Chemical thermodynamics; Concept of activity and activity coefficient; Solubility equilibria, Oxidation-reduction equilibria; Stability diagram; Electrochemical aspects of corrosion; Fundamentals of surface and colloidal chemistry. Water softening and water stabilization; Langelier saturation index; Caldwell Lawrence diagrams; Solubility diagram; Complexation and Chelation. Atmospheric Chemistry: Chemical equilibria and kinetics; Photo-dissociation and free radical reactions; Chemistry of precipitation; Acid rain, acidification of lakes. Application of various chemical processes in environmental remediation."
+  },
+  {
+    "name": "Structural Stability and Design",
+    "code": "CE5115",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Stability of Compression member- Concept of elastic stability, classical theory and 4th order D.E, Small and large deformation behavior, IS: 800 column design curves, Effect of shear deformation in column, energy and Numerical methods. Buckling of columns with thin walled open sections - St.Venant\u2019s and Vlasov\u2019s torsion, Torsional Buckling and flexural torsional buckling. Stability of Beams- Elastic lateral buckling and IS: 800 beam design. Stability of rigid frames- Introduction to beam-columns, Assessment of critical load by neutral equilibrium and slope deflection equations, Matrix method of stability analysis. Buckling of Thin plates- D.E of plate buckling, critical buckling load of plates with different boundary conditions."
+  },
+  {
+    "name": "Prestressed Concrete Design",
+    "code": "CE5121",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Prestressing systems and material properties; Losses in prestressing; Analysis and design of members subjected to axial load, flexure, shear and torsion at service and ultimate loads; Ultimate strength of rectangular and flanged sections; Partially prestressed concrete; Unbonded post-tensioned concrete; Behaviour of prestressed concrete members; Deflection due to gravity loads and prestressing force; Prediction of crack width; Transmission of prestressing force; Analysis of cantilever and continuous beams: cable profile, moment redistribution; Special topics: composite sections, one-way slabs, two-way slabs, compression members, circular prestressing."
+  },
+  {
+    "name": "SoilDynamicsandGeotechnicalEarthquake\rEngineering",
+    "code": "CE5211",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Engineering problems involving soil dynamics \u2013 Theory of Vibrations: Single and two-degrees of freedom systems \u2013 Vibration absorption and isolation techniques \u2013 Wave propagation theories \u2013 Measurement of dynamic soil properties \u2013 Strong Ground Motion: Measurement, characterization and estimation \u2013 Amplification theory and ground response analysis \u2013 Liquefaction of soils: evaluation using simple methods and mitigation measures \u2013 Machine foundations \u2013 Codal provisions \u2013 Seismic slope stability analysis \u2013 Seismic bearing capacity and earth pressures."
+  },
+  {
+    "name": "Corrosion Engineering",
+    "code": "CH4021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Definition of corrosion; Impact on economy; Electrochemical reactions; Forms of corrosion: uniform, galvanic, crevice, pitting, inter-granular, erosion, stress, embrittlement; Corrosion testing: specimen preparation, exposure tests, open corrosion potential, linear polarization, Tafel slopes, corrosion current, electrochemical impedance spectroscopy; Corrosion prevention: cathodic protection, sacrificial anode methods and anti-corrosion coatings; Flow accelerated corrosion; Galvanic corrosion as a moving boundary problem; High temperature corrosion."
+  },
+  {
+    "name": "Oil and Gas Engineering",
+    "code": "CH4023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Petroleum reservoir engineering: origin and composition of petroleum, petroleum geology, reservoir rock and fluid properties, flow of oil and gas in reservoirs, oil well drilling methods, predicting reservoir performance, enhanced oil recovery; Petroleum refinery engineering: characterization of crude oil and refinery products, crude distillation process, thermal and catalytic cracking, catalytic reforming, hydrocracking, hydrodesulfurization, light end and heavy end processes, lube oil production; Natural gas engineering: determination of natural gas properties, gas reservoir deliverability, wellbore and wellhead choke performance, gas processing, transportation, measurement and pipeline cleaning, conversion of gas to liquids."
+  },
+  {
+    "name": "Microscale Unit Operations",
+    "code": "CH5021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to forces of microscopic origin; Physics of miniaturization of mechanical, thermal and chemical systems; Fluid dynamics in microchannels: flow of liquids with and without slip, capillarity, two phase flow, preparation of microemulsions; Microreactor; Mixing and separation at microscale; Application to chromatography; Examples of microfluidic structures, connectors, valves and pumps; Fabrication methods and applications of microdevices."
+  },
+  {
+    "name": "Optimization Techniques",
+    "code": "CH5022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to optimization problems: cost function, constraints; Formulation for engineering applications; Convex sets and functions; Local and global optimality; Unconstrained optimization: optimality conditions, line search and trust region methods; Constrained optimization: Karush-Kuhn-Tucker conditions, concept of duality, method of Lagrange multipliers; Linear programming: simplex method; Quadratic programming: active set method; Nonlinear programming: sequential quadratic programming algorithm; Introduction to integer and stochastic optimization."
+  },
+  {
+    "name": "Adsorption Science and Technology",
+    "code": "CH5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction and applications of adsorption in process industry; Adsorption equilibrium and kinetic theories, nature of interactive forces between active surfaces and adsorbates; Synthesis of zeolites, activated carbon and novel porous materials; Adsorbent material characterization, measurement of surface area, pore volume, isotherms and kinetics; Methods of regeneration of adsorbent, temperature swing, pressure swing, chromatographic processes; Design of adsorption processes; Development of adsorbents for CO2 capture."
+  },
+  {
+    "name": "Introduction to Colloids and Interfaces",
+    "code": "CH5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to intermolecular and surface forces; Surface tension and capillarity; Wetting and contact angle; Micelle formation and self assembly processes in colloids; Molecular and colloidal monolayers and their characterization; Basic characterization of colloids by microscopy and light scattering methods; Electrokinetic phenomena; Models of electric double layer; Stability of colloidal systems - suspensions, dispersions, emulsions and foams; Applications in natural, biological and industrial processes."
+  },
+  {
+    "name": "Modern Process Control",
+    "code": "CH5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Hierarchy of process control activities; Introduction to computer process control; Process identification: first-principles models, discretization of continuous-time models, discrete- time models; finite step response models, state-space models, transfer function to state space models; Linear time-invariant system: controllability, observability, stability; Design of multivariable controller: pole placement, linear quadratic regulator, state estimation, Kalman filter, linear quadratic Gaussian; Model predictive control; Advanced topics such as extension to control of nonlinear systems and introduction to reinforcement learning."
+  },
+  {
+    "name": "Machine Learning",
+    "code": "CS3109/CS5103",
+    "status": "Core Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Review of basic concepts in python, vector algebra, multivariate calculus, random variables, probability distributions and statistical metrics; Supervised learning algorithms: vector representation, linear regression, logistic regression, evaluation metrics, bias-variance, cross validation, regularization, decision tree and ensembles and support vector machines; Practical modeling aspects: class imbalance, missing values, noise, batch processing, data seasonality; Artificial neural networks: backpropagation, activation functions and principles of deep networks; Unsupervised learning algorithms: clustering, principal component analysis and data visualization; Hands-on exercises on pertinent software platforms for various application scenarios."
+  },
+  {
+    "name": "Stochastic Decision Processes",
+    "code": "CS3910",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Content words): Basics of Probability: Probability space, conditional probability, independence, random variables, law of large numbers, central limit theorem. Finite Horizon Problems: Model formulation, optimality criteria, policy evaluation, optimality equations (Bellman equation) and principle of optimality, optimality of deterministic Markov policies, Backward induction. Infinite Horizon Problems: Value of a policy, expected total-reward criterion, expected discounted-reward criterion, optimality criterion, Markov policies, policy evaluation, optimality equation, value iteration, policy iteration, linear programming."
+  },
+  {
+    "name": "Advanced Computer Networks",
+    "code": "CS5021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "No description"
+  },
+  {
+    "name": "Algorithmic Engineering",
+    "code": "CS5022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "The phases of algorithmic engineering life cycle such as design and analysis, implementation, experimentation and profiling, along with various machine models will be discussed, with the help of case studies. Algorithmic Tuning: propagation, preprocessing, memoization, filtering, pruning. Code Tuning: loop unrolling, data-access patterns, temporal locality, spatial locality. Route planning algorithms and speedup techniques: Bidirectional search, ALT, Hub-labeling, Transit- node routing, arc-flags, contraction hierarchy, customizable contraction hierarchy, phast, multi-criteria shortest path. Journey planning raptor algorithm, guide-book routing, transfer patterns, scalable transfer patterns, multi- modal journey, ride sharing, multi trip vehicle routing. Machine models: RAM, cache aware, cache oblivious, external memory, parallel computing. transportation: connection-scan-algorithm, in pubic"
+  },
+  {
+    "name": "Computational Complexity Theory",
+    "code": "CS5023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Formal definitions of computation, Turing Machines(TMs), Simulations, Time complexity and universal TMs, Time Hierarchy Theorem, Problems in P, SAT, NP, Nondeterminism, Reductions, NP-completeness and the Cook-Levin Theorem, NP-completeness reductions, Search-to-decision, padding, dichotomy theorems, Ladner's Theorem and Mahaney's Theorem, coNP; Space complexity, Savitch's Theorem and NL, NL-completeness and log-space reductions,P- completeness, PSPACE-completeness, The Immerman--Szelepcs\u00e9nyi Theorem, Randomized complexity: RP, coRP, ZPP, BPP. The Polynomial Hierarchy. Oracle Turing Machines and P^NP. Interactive proofs: IP = PSPACE. Counting Problems. Theory of #P-completeness. Beyond worst-case analysis."
+  },
+  {
+    "name": "Data Science for Software\rEngineering",
+    "code": "CS5024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Refresher of data science and data mining methods - Current state of confluence of software engineering and artificial intelligence - Data sources in software engineering - Software data analytics (analysis of various artifacts such as architecture, code, bugs) - Visual analytics for software engineering data - Software reuse and software evolution - Software reverse engineering and reengineering - Analysis of mobile and game software development data - Prediction of software qualities through analysis of software repositories."
+  },
+  {
+    "name": "Predictive Data Modelling",
+    "code": "CS5025",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Concentrates on recognizing and solving convex optimization problems that arise in applications. Convex sets, functions, and optimization problems. Basics of convex analysis. Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems. Optimality conditions, duality theory, theorems of alternative, and applications. Interior-point methods. Applications to instruction set customization, data center resource management, spatial architecture scheduling, resource allocation in tiled architectures, signal processing, statistics and machine learning, control and engineering, digital and analog circuit design, and finance using off-the-shelf software to solve them."
+  },
+  {
+    "name": "Performance Evaluation of Computer\rSystems",
+    "code": "CS5026",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Covers different performance evaluation techniques in the broad categories of analytical modelling such as Markov chains, queueing models including network of queues, simulation techniques such as discrete event simulation modelling, and experimental design methodologies. Study the different stages of performance evaluation methodology such as workload characterisation, measurement of performance metrics, analysis, interpretation, and presentation of results. Apply the techniques to evaluate the performance of various computer subsystems."
+  },
+  {
+    "name": "Computational Geometry",
+    "code": "CS5027",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: scope of computational geometry, convex hull algorithms, visibility problems, art gallery problems, art gallery theorems, dual transformation and applications, intersection of half planes, duality range searching orthogonal range searching, priority search trees, non-orthogonal range searching, half-plane range query; Voronoi diagram: properties, algorithmic triangulations, Voronoi diagram in higher dimension; Point location and triangulation: planar point location, point location and triangulation, triangulation of arbitrary polygon; Epsilon- nets: epsilon-nets, geometric set cover with bounded dimension."
+  },
+  {
+    "name": "Computer Systems Security",
+    "code": "CS5029",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Review of programming and systems concepts; Introduction to code disassembly; Common exploitation: buffer overflow attacks, code reuse attacks, shellcode based attacks; Session and log management exploitations; Web exploitation: XSS attacks, XSRF attacks, SQL injection attacks; OS exploitation: privilege escalation attack, rootkits, side- and covert-channel attacks, virtualization and container exploitations; Countermeasures and detection methods: randomizing stack space, memory bounds checking, control flow integrity, taint analysis, rootkit detection, chrooting, isolations using namespace, KPTI defense; Introduction to network attacks and countermeasures."
+  },
+  {
+    "name": "Probabilistic Machine Learning",
+    "code": "CS5030",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Review on concepts in probability and statistics; Bayesian concept learning; Exponential family; Directed graphical models; Gaussian models; Bayesian linear regression; Generalized linear models; Learning with hidden variables: Expectation maximization; Mixture models; HMMs; Exact inference; Factor analysis; Sparse linear models; Kernel methods; Gaussian processes; Markov random fields; Variational inference; MCMC; LDA and topic models."
+  },
+  {
+    "name": "GPU Computing",
+    "code": "CS5221",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: General purpose programming in graphics processing units (GPU), GPU architecture, compute unified device architecture (CUDA); Data parallelism: data transfer, kernel functions, CUDA thread organization, thread hierarchy, warps, blocks, grids, streaming multiprocessors; Memory: memory hierarchy, global, shared, local, textures, constant memory, bank conflicts; Synchronization: memory consistency, barriers (local versus global), atomics, memory fence, worklists, synchronization across Central Processing Unit (CPU) and GPU, device functions; Parallel patterns: convolution, prefix sum, reduction; Advanced concepts: performance tuning, asynchronous processing, task-dependence, streams, overlapping data transfer and kernel execution, graph algorithms using GPU processing, dynamic parallelism, unified virtual memory, multi-GPU processing."
+  },
+  {
+    "name": "Artificial Neural Networks",
+    "code": "CS5222",
+    "status": "Elective",
+    "credits": "2-0-0-2",
+    "gradLevel": "PG",
+    "description": "Background to artificial neural networks (ANN) and parallel and distributed processing (PDP), PDP models, basics of ANN including terminology, topology and learning laws; Analysis of Feed-Forward Neural Networks (FFNN) including linear associative networks, perceptron network, multilayer perceptron, gradient descent methods and backpropagation learning; Analysis of Feedback Neural Networks (FBNN) including Hopfield model, state transition diagram, stochastic networks, Boltzmann learning law; Evolution of ANN architectures - from learning to deep learning."
+  },
+  {
+    "name": "Reinforcement Learning Algorithms",
+    "code": "CS5224",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Basics: sequences, probability theory, stochastic processes, discrete-time Markov chain, stochastic approximation theory; Reinforcement Learning (RL) framework: Markov decision process, value function, optimal policy/value function, Bellman equations; Exact solution methods: dynamic programming; Prediction methods: Monte-Carlo methods, temporal difference methods; Control methods: Q-learning, sarsa, expected sarsa, dyna; Eligibility traces; Approximation methods: fitted value and policy iteration, on/off-policy prediction using linear and nonlinear function approximations, policy gradient method, actor-critic method; Advanced topics: deep RL, generalized Bellman equation, stochastic recursive inclusions, proof of convergence of RL methods."
+  },
+  {
+    "name": "Stochastic Decision Processes",
+    "code": "CS5225",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Basics: probability space, conditional probability, random variables, expectation and linearity of expectation, law of large numbers, central limit theorem, discrete and continuous time Markov chains, absorbing Markov chains; Finite horizon problems: Markov Decision Process (MDP) model formulation, optimality criteria, policy evaluation, Bellman optimality equations, optimality of deterministic Markov policies, backward induction; Infinite horizon MDP problems: expected total-reward criterion, expected discounted-reward criterion, Markov policies, policy evaluation, value iteration, policy iteration, linear programming; Optimal stopping problems; Introduction to partially observable MDP."
+  },
+  {
+    "name": "Data Stream Analytics",
+    "code": "CS5226",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Time-series analysis: modelling using stochastic processes, stationarity, autocovariance function, autocorrelation, partial autocorrelation function; Classical approaches: AutoRegressive (AR), Moving Average (MA), integrated models, mixed models, seasonality, exogenous regressors, vector models, Akaike Information Criterion (AIC) for order selection, exponential smoothing; Spectral analysis; State space modeling of time series: Hidden Markov Model (HMM), Kalman filtering, nonlinear and multivariate time series analysis; Usage of deep learning: Multilayer Perceptron (MLP), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), Convolutional Neural Networks (CNN), auto encoder, hybrids; Industrial case studies: anomaly detection, forecasting, multi length time series data, extreme value prediction, incremental learning in time series."
+  },
+  {
+    "name": "Testing and Verification of VLSI Systems",
+    "code": "CS5227",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Fundamentals of testing: VLSI design process, defect and fault model, fault simulation, test generation algorithm, test-ability measures, test economy, test equipment; Design for test-ability: scan designs, built-in-self-test (BIST), boundary-scan architecture, SoC test; Delay test: fault model, pattern generation, scan-based delay test, small delay defects; Memory test: functional fault model, memory test algorithm, memory BIST, diagnosis; Test optimization: test compression, power-aware test; Verification: dynamic verification, formal equivalence checking, binary decision diagram, finite automata, formal property checking, temporal logic, timing verification, hardware emulation."
+  },
+  {
+    "name": "Randomized Algorithms",
+    "code": "CS5228",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: randomization in algorithms design, motivation; Review of basic probability; Applications: randomized quick-sort, Karger\u2019s min-cut, median finding, Miller-Rabin primality test; Concentration inequalities: Markov, Chebyshev, Chernoff, Bernstein, Hoeffding; The probabilistic method; Sampling: Karp-Luby\u2019s DNF solution counting, using Markov chain; Random walks; Randomized data structures; Hashing; Balls and bins; Algebraic techniques; Randomized incremental construction; Yao's minimax lemma; Derandomization techniques."
+  },
+  {
+    "name": "Algorithms for Big Data",
+    "code": "CS5229",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Review of basic probability; Tail bounds: Markov, Chebyshev, Chernoff, Bernstein and Hoeffding; Streaming models; Streaming algorithms: Morris algorithm, Flajolet-Martin algorithm, reservoir sampling; Hashing: universal hash functions, min-hashing, locality sensitive hashing, Bloom filter, Jaccard similarity estimation, load balancing, power of two choices, consistent hashing; Sketching: Alon-Matias-Szegedy (AMS) algorithm, Indyk\u2019s algorithm, count-min sketch, majority and heavy-hitters problem; Dimensionality reduction: random projection, Johnson-Lindenstrauss lemma; Graph and geometric streaming algorithms; Randomized numerical linear algebra algorithms."
+  },
+  {
+    "name": "Stochastic Network Optimization",
+    "code": "CS5230",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: review of probability concepts (including iterated expectation, telescopic sums), Markov chains, renewal processes; Queues stability: discrete-time queues, Little's theorem, rate stability, strong-stability theorem, Foster-Lyapunov theorem, scheduling for rate stability; Lyapunov optimization: Lyapunov drift for stability, max-weight algorithm, Lyapunov optimization for stability with energy minimization, virtual queues, placeholder-holder backlog, drift- plus-penalty algorithms for Markov-modulated processes; Optimizing function of time averages: Jensen's inequality, rectangle constraint, auxiliary variables; Optimization of renewal systems."
+  },
+  {
+    "name": "Parallel Numerical Linear Algebra",
+    "code": "CS5231",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: parallel computing, algorithm design, programming; Approximations in scientific computing; Vector and matrix norms; Stability and conditioning; Matrix products; Gaussian elimination; Eigenvalues; QR factorization; Singular value decomposition; Least squares; Cholesky factorization; Sparse linear systems; Conjugate gradient; Preconditioning; Introduction to tensor algebra."
+  },
+  {
+    "name": "Parallel Numerical Linear Algebra",
+    "code": "CS5231",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: parallel computing, algorithm design, programming; Approximations in scientific computing; Vector and matrix norms; Stability and conditioning; Matrix products; Gaussian elimination; Eigenvalues; QR factorization; Singular value decomposition; Least squares; Cholesky factorization; Sparse linear systems; Conjugate gradient; Preconditioning; Introduction to tensor algebra."
+  },
+  {
+    "name": "Principles of Reinforcement Learning",
+    "code": "CS6021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Review of probability, random variables and their convergence, stochastic processes, expectation, conditional expectation, sufficient statistics, martingales; Introduction to real analysis; Sequences of functions: MCT and BCT; Markov chains: mixing times and HMM; Bergman loss functions; Dynamical system: fixed point and stability theorems; Monotonicity and contraction properties of dynamic programming, submodularity, stochastic and monotone likelihood ratio dominance; Stochastic approximation; Sample complexity; Concentration of measure: Tail probabilities, Markov inequality, Cramer-Chernoff method, Azuma- Hoeffding\u2019s inequality, Cauchy-Schwarz inequality; Occam\u2019s razor bound; VC dimension. inequality, Chebyshev"
+  },
+  {
+    "name": "Stochastic Dynamic Programming and Social\rLearning",
+    "code": "CS6022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Review of probability and expectation; Review of MDPs and backward dynamic programming; Dynamic programming for POMDPs; Finite dimensional POMDP characterization, exact and suboptimal POMDP algorithms; Social learning: information cascades, herding, constrained social sensing, social learning in social network; Controlled sensing with social learning using POMDP; Stopping time POMDPs in multi-agent social learning: quickest detection and quickest time herding with social learning, optimal pricing under social learning customers."
+  },
+  {
+    "name": "Introduction to Polymer Science",
+    "code": "CY5021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Chemistry of polymers: Definition and classification, Vinyl radical polymerization, polymers, Copolymerization, Molecular weights, Rubber, Thermodynamics of polymer solutions. Physics of Polymers: Random flight model, Gaussian chain, Excluded volume effect, Scaling behaviour, Rouse model, Zimm model, Dynamical scaling, Normal modes, Structure factor, Entanglement effect, Tube model, Reptation dynamics. Polymer translocation. and"
+  },
+  {
+    "name": "Introduction to Polymer Science",
+    "code": "CY5021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Chemistry of polymers: Definition and classification, Vinyl radical polymerization, polymers, Copolymerization, Molecular weights, Rubber, Thermodynamics of polymer solutions. Physics of Polymers: Random flight model, Gaussian chain, Excluded volume effect, Scaling behaviour, Rouse model, Zimm model, Dynamical scaling, Normal modes, Structure factor, Entanglement effect, Tube model, Reptation dynamics. Polymer translocation. and"
+  },
+  {
+    "name": "Statistical Mechanics",
+    "code": "CY5022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Equilibrium Statistical Mechanics: Ensembles, Canonical ensemble, Grand canonical ensemble, partition function, Central limit theorem, Boltzmann statistics, Fermi-Dirac and Bose-Einstein statistics, Liouville theorem, Ideal mono-, di- and polyatomic gas, Lattice model, Distribution function theory of liquids. Non-equilibrium statistical Mechanics: Stochastic variables, Random events, Markov processes, Einstein relation, Langevin apporach, Fluctuation-dissipation theorem, Fokker-Planck description, Kramers rate, Master equation, First passage time problems."
+  },
+  {
+    "name": "Computational Methods in Materials\rScience",
+    "code": "CY5023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Classical Molecular Simulation: Ensemble, Molecular Dynamics, Monte Carlo techniques, Metropolis method, Hybrid Monte Carlo, Wang-Landau sampling, Applications: Lennard-Jones system and Ising model Free Energy Calculations: Umbrella sampling, WHAM analysis, Transition Matrix Monte Carlo, Metadynamics Quantum Simulations for Multi-electronic Systems (Atoms, Molecules, and Solids): Wave function theory (WFT), Density functional theory (DFT), Exchange correlation functionals, Basis Sets, Basics of solids state physics, Pseudopotentials, Applications in atoms, molecules, nanostructures and solids."
+  },
+  {
+    "name": "Supramolecular Architectures and Molecular\rMachines: Fundamentals and Applications",
+    "code": "CY5027",
+    "status": "Elective",
+    "credits": "2-1-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to supramolecular science and technology; Supramolecular systems and or assemblies; Weak intermolecular forces: cation and anion based interactions, concepts of HSAB, coordination chemistry; Ion, species and or molecular recognition: natural and synthetic systems forming supramolecular structured materials; Property driven functions of supramolecular assembly; Metal coordinated special assemblies: molecular knots, catenanes, cages, capsules, tubes, necklaces; Engineering supramolecular systems: sensors, switches, devices & machines; Connectivity & Comparison: molecule to machine."
+  },
+  {
+    "name": "Supramolecular Architectures and Molecular\rMachines: Fundamentals and Applications",
+    "code": "CY5027",
+    "status": "Elective",
+    "credits": "2-1-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to supramolecular science and technology; Supramolecular systems and or assemblies; Weak intermolecular forces: cation and anion based interactions, concepts of HSAB, coordination chemistry; Ion, species and or molecular recognition: natural and synthetic systems forming supramolecular structured materials; Property driven functions of supramolecular assembly; Metal coordinated special assemblies: molecular knots, catenanes, cages, capsules, tubes, necklaces; Engineering supramolecular systems: sensors, switches, devices & machines; Connectivity & Comparison: molecule to machine."
+  },
+  {
+    "name": "Pericyclic Reactions and Photochemistry",
+    "code": "CY6024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Pericyclic Reaction: molecular orbitals of acyclic conjugated systems, thermal and photochemical reactions, electrocyclic reactions, cycloaddition reactions and sigmatropic rearrangements; Frontier MO approach, perturbation molecular orbital method, correlation diagram; Woodward-Hoffmann selection rules; Reactivity, regioselectivity and periselectivity in cycloaddition reaction, Wittig reactions; Sommelet-Hauser, Cope and Claisen rearrangement; Photochemistry: basic principles, Jablonski diagram, excited state of some organic molecules, cis-trans mechanism, reactions of carbonyl, olefin and conjugated carbonyl compounds, photo-induced functionalization involving Norrish type I and II, Paternobuchi reaction, Di-pi methane rearrangement; Photo chemistry of aromatic compounds. rearrangements, Ene"
+  },
+  {
+    "name": "Chemistry of Heterocyclics and Natural Products",
+    "code": "CY6025",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Heterocyclic Chemistry: Nomenclature and classification of heterocyclic compounds; Structure, preparation and reactions of: a) three, four, five and six membered heterocyclic analogues containing one or more heteroatoms; b) fused ones containing one or more heteroatoms. Chemistry of Natural Products: Introduction, Occurrence and isolation, function, general properties, nomenclature, and classification of alkaloids, Steroids, Terpenoids and Flavonoids. Isolation, structure, structural elucidation, synthesis, chemical properties, stereo chemistry of Quinine, Morphine, Cholesterol, Ergosterol, Citral, Menthol, Camphor, rutin, quercetin,vitamin A, Vitamin B, Vitamin C and Vitamin D."
+  },
+  {
+    "name": "Digital Communication",
+    "code": "EE3021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Review of random processes and spectral analysis, elements of detection theory, optimum detection of signals in noise, coherent communication with waveforms, probability of error evaluations, baseband pulse tranmission, intersymbol interference and Nyquist criterion, passband digital modulation schemes (phase shift keying, frequency shift keying, quadrature amplitude modulation, continous phase modulation and minimum shift keying), digital modulation tradeoffs, optimum demodulation of digital signals over bandlimited channels, maximum likelihood sequence detection (Viterbi receiver), equalization techniques, synchronization and carrier recovery for digital modulation."
+  },
+  {
+    "name": "Advanced Power Electronics",
+    "code": "EE4021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Modeling and voltage control of DC-DC converters, current programmed control of DC-DC converters, modeling and control of single phase and three phase AC-DC converters, power factor correction in single phase and three phase AC-DC converters, modeling and control of grid connected single phase and three phase DC-AC inverters, multilevel converters for high power drives, dual active bridge and triple active bridge converters and control."
+  },
+  {
+    "name": "Electric Drives",
+    "code": "EE4022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Methods of DC motor control, non-regenerative controlled rectifiers, fully controlled converters, field control, chopper regulators; Induction motor control systems, control of effective rotor resistance, recovery of slip energy, variable frequency control of AC motors, current source inverter fed induction motor drive, forced commutated inverter fed drives; Self-controlled synchronous motor drives and traction drives."
+  },
+  {
+    "name": "Modeling and Control of Electric Machines",
+    "code": "EE4023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Principle of unified machine theory, generalized torque equation; Performance evaluation of DC machine and speed control; Three phase induction motor: transformation methods, (stationary, rotor and synchronous frames) and corresponding equivalent circuits; Reduced order dynamic modeling, scalar and vector control (rotor field oriented control, stator field oriented and air gap field oriented control) of induction machine; Simulation and controller design for the different control algorithms."
+  },
+  {
+    "name": "Communication Networks",
+    "code": "EE5022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Engineering concepts: basics of communication systems, CDMA and OFDMA, WiMAX (IEEE 8"
+  },
+  {
+    "name": "MOS Device Modeling and\rCharacterisation",
+    "code": "EE5023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "MOS capacitor: C-V characteristics; Effect of metal work function, oxide and trapped charges. Threshold voltage. Tunnelling current. MOSFET: Threshold based models of static I-V characteristics: Channel length modulation, field dependent mobility, short channel and narrow width effects; Subthreshold current. Quantum mechanical effects Capacitances, concept of non- reciprocal capacitances. Dynamic behaviour under small and large signals. Surface potential and charge based models. Model parameters and their extraction. SOI MOSFETs, Double Gate MOSFETs and FinFETs."
+  },
+  {
+    "name": "Machine Learning for Image\rProcessing",
+    "code": "EE5024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG PG",
+    "description": "to Introduction Image and Video data, Representation, Classification or Recognition from data, Machine Learning; Feature extraction: From Images (SIFT, Wavelet, HoG) and Videos (BoVW); Machine Learning: Linear Perceptron, Support vector Machines and Neural Networks (NNs). Self Organizing Maps; Deep learning methods: Training in Deep Feed forward NNs; Convolutional NNs, Training CNNs. Standard architectures; Features of Deep Networks: Transfer learning, Multi-task learning, Transformation invariant learning etc.; Applications of Deep Nets: Image segmentation, Object recognition, Transformation invariant recognition. Visual Tracking with Deep trained nets; Introduction to other Deep learning Methods: GANs (Generative adversarial networks). Bayesian Belief Networks for Semi-supervised learning. Recurrent NN."
+  },
+  {
+    "name": "Information Theory and Coding",
+    "code": "EE5025",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Measures of Information: Entropy, conditional entropy, mutual information, and their properties; Asymptotic Equipartition Property (AEP): Weak law of large numbers, Typical Sequences, AEP and its properties; Source Coding: Coding for discrete memoryless sources, prefix codes, Kraft inequality, Huffman coding; Channel Coding: Examples of channels, jointly typical sequences, the channel coding theorem; Differential Entropy: Continuous random variables, AEP for continuous random variables, relative entropy and mutual information, Properties of differential entropy, relative entropy and mutual information; Gaussian Channel: Definiton, Converse and Achievability for the Gaussian channel; Rate distortion theory: Distortion function, rate distortion theory and lossy compression."
+  },
+  {
+    "name": "Multivariable Feedback Control",
+    "code": "EE5026",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Classical frequency domain methods; Analysis of directions in Input output multivariable controllability; Inherent control limitations in the plant; Model uncertainty and robustness; Performance requirements; Methods for controller design and model reduction; Control structure selection and decentralized control; Practical examples and simulations in Matlab/LabView. singular value decomposition;"
+  },
+  {
+    "name": "Linear Integrated Circuits Theory and\rApplications",
+    "code": "EE5027",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Operational Amplifers: introduction, ideal operational amplifier (op- amp) and its characteristics. Practical op-amp: introduction, static and dynamic op- amp limitations. Amplifiers and Oscillators: differential input and differential output amplifier, voltage-series feedback amplifier, voltage-shunt feedback amplifier, log and antilog amplifier, triangular and rectangular wave generator, phase-shift oscillators, wein bridge oscillator, analog multiplier, voltage controlled oscillator. Active Filters: characteristics, classification of filters, magnitude and frequency response, butter worth 1st and 2nd order low pass, high pass and band pass filters, chebyshev filter characteristics, band reject filters, notch filter, all pass filters, self-tuned filters, switched capacitor filters. Comparators and Converters: comparator, zero crossing detector, monostable and astable multivibrator, schmitt trigger, sample and hold circuit. Advanced applications : frequency divider, PLL, AGC, AVC using op-amp and analog multipliers, amplitude modulation using analog multiplier, frequency shift keying, simple op-amp voltage regulator, fixed and adjustable voltage regulators"
+  },
+  {
+    "name": "CAD for VLSI Systems",
+    "code": "EE5028",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Overview of digital logic design; Simplification of switching functions; K-map based reduction of switching functions; Combinational logic design; logic modules such as multiplexers/ demultiplexers, Complex combinational decoders, PLAs and their use in standardized combinational logic design; Memory elements and time delay concepts, Flip-flops, latches, registers; Sequential circuit concepts and state diagrams; Clock-mode sequential circuits analysis and design; Synthesis of state diagrams; Fundamental-mode sequential circuits; Analysis and design, hazards, races and cycles. Logic element realization; Ideal switch based implementation; Logic families; FET switches; MOS switch based logic realization; logic; Algorithmic optimization of NMOS and CMOS combinational logic; VLSI realization of combinational logic. Language based description of complex digital systems; RTL descriptions and design language representation; Levels of description; Behavioral and structural descriptions; VHDL and Verilog. logic-Pass transistor"
+  },
+  {
+    "name": "Medical Imaging",
+    "code": "EE5029",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Basic image processing: spatial transformations, Fourier series, Fourier transform, convolution, sampling theory, aliasing, interpolation; Medical imaging modalities: X-Ray, computed tomography, Positron emission tomography, ultrasound, MRI physics, MR imaging, properties of MRI; Image enhancement: contrast enhancement, denoising, deblurring, edge detection, derivatives and Fourier theory, anisotropic diffusion; Image registration: correlation, least squares, transform- based registration, information, binning discontinuities, registration optimization, registration by clustering, ensemble registration, gaussian mixture models; Image segmentation: region growing, k-means clustering, snakes, introduction to level sets, speed functions, multi-atlas fusion-based segmentation; Medical theory of MRI reconstruction, MRI motion compensation, algebraic CT reconstruction, CT filtered back-projection. joint entropy, mutual image reconstruction:"
+  },
+  {
+    "name": "Transducers",
+    "code": "EE5030",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Transducers and their characteristics: definition of terminologies, generalized resistance characteristics; Resistive potentiometer, noise, resolution, signal conditioning, strain gauges and associated electrical circuitry, temperature compensation, load cells, torque and pressure measurement using strain gauges, resistive temperature device (RTD), three-lead arrangement, thermistors, linearization - hot-wire anemometers, measurement of direction of flow, peizo resistive transducers; Inductive transducers: self-inductance transducers, transverse armature and plunger type, sensitivity and linearity, signal conditioning circuits, choice of components, linear variable differential transducer: transducers: single, push-pull, angle lead and transducer, humidity sensor, parasitic effects, solutions, signal conditioning circuits; Miscellaneous transducers: peizo electric, thermo couples, mass-spring accelerometer; Applications of transducers: measurement of displacement (linear and angular), velocity, acceleration, force, torque, pressure, flow, temperature. lag compensation; Capacitive"
+  },
+  {
+    "name": "Introduction to Integrated Photonics",
+    "code": "EE5031",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction, optical materials, and waveguides, fundamental building blocks of photonic integrated circuits (PICs), off-chip coupling, optical modulation, photodetectors, integrated light sources, photonic circuit modeling, flow of silicon photonic waveguide, characterization methods and techniques, applications. fabrication"
+  },
+  {
+    "name": "Modeling and Control of Cyber-Physical Systems",
+    "code": "EE5032",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to Cyber-physical systems dynamical systems, differential equations and domains, synchronous models, asynchronous models, liveliness requirements; Introduction to smart power grid operation and control, SCADA and cyber infrastructure in a power grid, integrated cyber-power system model, introduction to dynamic modeling of power grid, modeling and simulation of network and cyber model, formulation of DAE models for cyber-physical smart grids, closed loop control of smart grids, basic concepts on cyber-physical security of smart grids, use cases."
+  },
+  {
+    "name": "Compound Semiconductor Devices",
+    "code": "EE5033",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "High-speed performance metrics for devices and circuits, Si based devices for high-speed operation and their limitations, technology of compound semiconductor devices and their suitability for high speed operation, metal-semiconductor contacts and MOS devices, Metal Semiconductor Field Effect Transistors (MESFETs), High Electron Mobility Transistors (HEMTs), Heterojunction Bipolar Transistors (HBTs), optoelectronic devices: solar cells, photodiodes, LEDs and LASERS on compound semiconductors, high-speed circuits: direct coupled FET Logic, Schottky diode FET logic, FET Amplifiers and MMICs."
+  },
+  {
+    "name": "Speech Signal Processing",
+    "code": "EE5034",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Background to speech signal processing, speech production mechanism and nature of the speech signal, basics of digital signal processing and equivalent representations of signals and systems, introduction to random processes, speech signal processing methods: short- time spectrum analysis and linear prediction analysis, hidden Markov models: an introduction to speech recognition, applications of SSP methods and neural network models for speech enhancement, speech synthesis and speaker recognition."
+  },
+  {
+    "name": "Nanoelectronic Devices",
+    "code": "EE5038",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Quantum mechanical tunneling with device applications: introductory quantum mechanics, tunneling, field emission, gate oxide tunneling and hot electron effects in MOSFETs, scanning tunneling microscopes, scattering matrices, resonant tunneling devices, quantum wells, wires and dot devices; Transport: band structure and density of states, graphene and CNTs, current flow through nanoscale devices, nano transistors, molecular transport, ballistic and diffusive transport, quantum transport, self-energy and Green\u2019s function, spectral function, correlation function, inflow/outflow and current calculations, Coulomb blockade and single electron transistor devices; Spintronics: Stern-Gerlach experiment, spin matrices and rotation, LLG equation, spin transfer torque, spin valves, magnetic tunnel junctions."
+  },
+  {
+    "name": "Physics and Modeling of Semiconductor Devices",
+    "code": "EE5039",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Semi-classical bulk transport: transport equation, momentum relaxation, energy relaxation, drift-diffusion model, hydrodynamic model, generation-recombination, characteristic times and lengths; Types of device models: analytical/numerical, DC/AC, small-signal/large-signal, low frequency/high frequency, quasi static/non-quasi static, sub-circuits, and compact models for circuit simulation; MOSFET physics and modeling: review of MOSCAP and MOSFET operation, energy band diagram, IV/CV models, threshold and surface potential based models, intrinsic and extrinsic models, parasitic elements, high-voltage MOSFET modeling; BJT physics and modeling: review of BJT operation, terminal characteristics, Gummel-Poon model."
+  },
+  {
+    "name": "Probabilistic Graphical Models",
+    "code": "EE5040",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to graphical models, Bayesian network representation, undirected graphical models, local probabilistic models, template-based representations, Gaussian network models, exponential family, exact inference: variable elimination, exact inference: clique trees, inference as optimization, particle-based approximate inference, map inference, inference in hybrid networks, inference in temporal models, learning graphical models, parameter estimation, structure learning in Bayesian networks, partially observed data, learning undirected models, causality, utilities and decisions, structured decision problems."
+  },
+  {
+    "name": "Antenna Theory and Design",
+    "code": "EE5054",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Radiation pattern, near- and far-field regions, reciprocity, directivity and gain, effective aperture, polarization, input impedance, efficiency, Friis transmission equation, radiation integrals and auxiliary potential functions; Infinitesimal dipole, finite-length dipole, linear elements near conductors, dipoles for mobile communication, small circular loop; Huygens principle, radiation from rectangular and circular apertures, design considerations, Babinets principle, Fourier transform method in aperture antenna theory; Radiation from sectoral and pyramidal horns, design concepts, prime-focus parabolic reflector and cassegrain antennas; Basic characteristics, feeding methods, methods of analysis, design of rectangular and circular patch antennas; Analysis and synthesis of antenna arrays."
+  },
+  {
+    "name": "Microwave Integrated Circuits",
+    "code": "EE5055",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Fundamentals of transmission lines, foundations of microstrip lines, striplines, slotlines, coplanar waveguides, coplanar strips; Launching techniques and transitions; Lumped components: capacitors, inductors and resistors; Discontinuities, open-circuit end correction, corners, symmetrical steps, T-junctions, series gaps, and bends; Periodic structures, filter design by the image parameter and insertion loss method, filter transformations and implementation, design of various types of low-pass, high-pass, band-stop and band-pass filters; Even- and odd-mode analysis; Branch-line couplers; hybrid-ring couplers, coupled lines and directional couplers; Noise characterization and design options; Switches, phase shifters, detectors and mixers; Amplifiers and oscillators."
+  },
+  {
+    "name": "RF Transceiver Design",
+    "code": "EE5056",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Basic introduction to wireless systems; Noise and distortion in microwave systems; An overview and recap to microwave networks, transmission lines, antennas and filters; Amplifiers: 2-port power gains and stability; Amplifier design using S-parameters; Low-noise amplifiers; Power amplifiers; Mixers: mixer characteristics; Diode mixers; FET mixers; Balanced mixers; Image reject mixers; Devices for microwave switches: PIN diode, BJT, FET; Device models; Types of switches; Switch configurations; Basic theory of switches; Multi-port, broad-band and isolation switches; RF and microwave oscillators and frequency synthesizers; Receiver architecture and design."
+  },
+  {
+    "name": "Theory and Design of Gyrotrons",
+    "code": "EE5057",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction and overview of millimeter wave sources/gyrotrons and allied transmission-line components; Basic principle of gyrotrons and their interactions structures; Theory of gyrotrons and practical design considerations; Design and analysis of electron optical system, beam guidance and beam dump for high power millimetre wave devices; Methods of taper analysis and synthesis; Basic principle of quasi-optical mode converters; Design of single/multi-layer and Brewster windows for high power millimetre wave sources; Gyrotrons and other millimeter wave and terahertz sources for plasma heating, medical spectroscopy, high power radars, industrial heating and other ISM applications."
+  },
+  {
+    "name": "Image and Video Processing",
+    "code": "EE5101",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "The digitized image and its properties; Image Pre-processing; Histogram Equalization and Image enhancement, Denoising, Deblurring, Spatial domain Restoration, Linear Discrete Image Transforms; Image Restoration in Frequency domain; Image Data Compression; Mathematical Morphology; Segmentation; Shape Representation and Description; Video representation; Optical Flow / Motion estimation; Few Image and Video descriptors; Few applications such as Object Tracking."
+  },
+  {
+    "name": "Linear Dynamical Systems",
+    "code": "EE5102",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Models of physical systems ;Equilibrium/operating points, Jacobian linearization; Relative degree, diffeomorphism, input/output linearization of nonlinear systems; Minimal realization, Smith-McMillan form; Continuous-time linear time- varying/time-invariant (LTV/LTI) state-space models, Peono-Baker series, matrix exponentials, similarity transformations, Jordan normal form, algebriac and geometric multiplicity, minimal polynomial; Reachable and controllable subspaces, Controllability and observability Gramians, Kalman and Popov-Belevitch-Hautus (PBH) test for controllability and observability, Controllable and observable canonical forms; Stabilizability and detectability, Kalman canonical decomposition, Review of matrix theory--matrix norms, positive/negative definiteness ; Lyapunov stability, Lyapunov equation, Eigenvalue conditions for Lyapunov stability, Separation principle, pole-placement and observer design; Linear optimal control techniques, Linear quadratic regulator (LQR), the algebraic Riccati equation."
+  },
+  {
+    "name": "Deep Learning for Computer Vision",
+    "code": "EE5103",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to real world signals \u2013 text, speech, image, and video. Signal processing for feature extraction: for Text (BoW), Speech (LPC), Images (SIFT, Wavelet, HoG, BoVW, FV), Videos (BoVW). Review of Pattern recognition: Generative models (GMMs); Discriminative models (Support vector Machines and Neural Networks (NNs)); ICA, HMMs, SOMs. Deep learning methods: Training in Deep Feed forward NNs. Convolutional NNs, Training CNNs. Standard architectures. Applications of Deep Nets in computer vision: Image segmentation, object recognition, Transformation invariant recognitions. Introduction to GANs (Generative adversarial networks). Visual Tracking with Deep trained nets. Transfer learning. Restricted Boltzmann machine / Bayesian Belief Nets; Applications in semi- supervised classification. Deep Recurrent NNs, Applications in machine translation, Image captioning & scene understanding."
+  },
+  {
+    "name": "Optimal Control",
+    "code": "EE5105",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Review of state-space representation of systems, Introduction to Optimization- Unconstrained and constrained optimization, Karush-Kuhn-Tucker (KKT) conditions. Calculus of Variations-Examples of variational problems, Cost functionals, extremals, Weak and strong extrema, First-order necessary conditions for weak extrema--Euler-Lagrange equations, Hamiltonian formalism and mechanics, Variational problems with constraints, Second-order Conditions-Legendre's condition, Weierstrass-Erdmann corner conditions, Weierstrass excess function ; Optimal control problem formulations- Variational approach to the fixed-time, free- endpoint problem; Pontryagin maximum principle- Proof of the maximum principle, Time-optimal control of double integrator, Bang-bang control; Hamiltonian-Jacobi Bellman (HJB) equation-principle of optimality, Sufficient condition for optimality ; Linear quadratic regulator (LQR) problem- candidate optimal feedback law, Riccati differential equation, proof of sufficiency using HJB equation ; Numerical methods for optimal control problems- Evaluation of parameter-dependent functionals and their gradients, Indirect methods, Direct methods. Applications- Time-optimal control of linear systems, Singular control, Optimal control to target curves."
+  },
+  {
+    "name": "Pattern Recognition and Machine learning",
+    "code": "EE5106",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "PR overview-Feature extraction-Statistical Pattern Recognition-Supervised & Unsupervised Learning; Bayes decision Theory, Linear discriminant functions; Parametric methods, ML and MAP estimation-Bayes estimation. Non parametric methods; Parzen windows & k NN approaches. Dimensionality reduction (PCA) & Fishers linear discriminant. Linear perceptron and Neural Networks. Introduction to Deep Neural nets. Kernel methods and Support vector machine. Unsupervised learning and Clustering. K-means and Hierarchical clustering. Linear & Logistic Regression. Decision Maximization (EM). Applications to document analysis and recognition. trees for classification. Ensemble/ Adaboost classifier. Expectation"
+  },
+  {
+    "name": "High Speed Devices and Circuits",
+    "code": "EE5107",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: Materials for high speed devices and circuits, silicon-germanium alloys and silicon carbide for high speed devices, Material and device process techniques; Metal-semiconductor contacts: Native oxides of compound semiconductors for MOS devices and the interface state density related issues, Metal semiconductor contacts; Metal semiconductor Field Effect Transistors (MESFETs); High Electron Mobility Transistors (HEMTs); Hetero junction Bipolar transistors (HBTs); High speed Circuits: GaAs Digital Integrated Circuits for high speed operation- Direct Coupled Field Effect Transistor Logic (DCFL), Schottky Diode FET Logic (SDFL), Buffered FET Logic(BFL); GaAs FET Amplifiers; Monolithic Microwave Integrated Circuits (MMICs);"
+  },
+  {
+    "name": "Advanced Signal Analysis and Processing",
+    "code": "EE5111",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Continuous and discrete time signals and systems, LTI systems, Convolution, Difference equations. Frequency domain representation: Fourier transform and its properties. DTFT, DFT and FFT; Z-transform. Digital filters: FIR and IIR filters, Digital-filter realisations and design. Sampling, Quantization; Sampling and reconstruction: Change of sampling rate, Decimation and Interpolation, Polyphase decomposition. Non-stationary Processes; Time Frequency representations; Short time FT, Uncertainty principle, Discrete Wavelet Transforms; Analysis and Synthesis filter banks; Discrete random processes, Linear prediction, Digital Wiener filtering, Kalman filter, Extended and Unscented Kalman filter; Particle filter."
+  },
+  {
+    "name": "Computer Vision",
+    "code": "EE5113",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Image Formation Models, Monocular imaging system, Orthographic & Perspective Projection, Camera model and Camera calibration, Image representations (continuous and discrete), Edge detection. Image Processing and Feature Extraction: Harris corner detector, SIFT, HoG descriptor; Displacement and Motion models, Global motion estimation: Affine and Projective; Motion Estimation: Optical flow computation, Laplacian and Gaussian pyramids, Robust optical flow estimation; KLT tracker, Advanced Trackers such as KCF; Structure from motion; Depth estimation, Active stereo: Fringe projection techniques; Binocular imaging systems, Stereo Vision, Fundamental matrix estimation, RANSAC, Image rectification and disparity estimation; Viola Jones face detection, Face representation: Eigen faces and 2D PCA. Deformable curves and surfaces, Snakes and active contours; Image Segmentation. Machine Learning and Deep Learning paradigms for Computer vision."
+  },
+  {
+    "name": "Microwave Theory and Techniques",
+    "code": "EE51XX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Design considerations for microwave tubes, principle of operation of multi-cavity and reflex klystron, magnetron and traveling wave tube; Equivalent voltages and currents, concept of impedance, impedance and admittance matrices of microwave junctions, scattering matrix representation of microwave networks, ABCD parameters, excitation techniques for waveguides; Scattering matrix of 3- and 4-port junctions, T-junction power divider, Wilkinson power divider, qualitative description of two-hole and multi-hole waveguide couplers, hybrid junctions; Faraday rotation, ferrite circulators, isolators and phase shifters; Principles of Gunn diode, IMPATT diode, PIN Diode, and Schottky barrier diode; Microwave BJT, MESFET, HEMT and their applications."
+  },
+  {
+    "name": "Deep Learning for Healthcare",
+    "code": "EE52XX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to machine learning and deep learning, an overview of healthcare and clinical data, risk stratification, physiological time series, natural language processing, deep learning for disease diagnosis, classification, risk stratification, disease progression modeling, precision medicine, automating clinical workflows."
+  },
+  {
+    "name": "Fundamentals of Multiple Antenna Wireless\rCommunications",
+    "code": "EE52XX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Capacity analysis: deterministic multiple antenna system, ergodic capacity, outage capacity and outage probability; Space-time codes: design criteria, orthogonal and quasi- orthogonal design of codes, diversity and multiplexing gain tradeoff; Receiver design for multiple antenna systems; Multiuser communication with multiple antennas; Applications of multiple antennas in current and future technologies."
+  },
+  {
+    "name": "RF-CAD Lab-based Project",
+    "code": "EE52XX",
+    "status": "Elective",
+    "credits": "1-0-3-3",
+    "gradLevel": "PG",
+    "description": "Research based RF-CAD course in the area of RF and microwave engineering, particularly in RF-to-THz domain dealing with systems / sub-systems / front-ends, sources, and allied transmission line components such as: (a) active sources, amplifiers, oscillators, etc. (b) passive components: periodic structures, filters, couplers, power dividers and splitters, etc. (c) antennas and arrays (DSGs), Electromagnetic Bandgap Structures (EBGs), and Photonic Bandgap Structures (PBGs) (e) electron optical systems (f) quasi-optical transmission lines. fractals, Defected Ground Structures (d) metamaterials,"
+  },
+  {
+    "name": "Advanced Engineering Electromagnetics",
+    "code": "EE5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Electromagnetic waves: Maxwell's equations and boundary conditions, wave propagation in perfect and lossy dielectrics, reflection of waves on a material boundary; Fundamental theorems and concepts; Plane wave functions: TE, TM, and hybrid modes in rectangular waveguides, rectangular cavity, modal expansion of fields in a waveguide, apertures in conducting screens; Cylindrical wave functions: circular waveguides, radial waveguides, cylindrical cavities, sources of cylindrical waves; Spherical wave functions: elementary wave functions in spherical coordinates, spherical resonator; Wave propagation in anisotropic media: plane wave propagation in anisotropic and uniaxial crystals."
+  },
+  {
+    "name": "Advanced Microwave Engineering",
+    "code": "EE5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Transmission lines and waveguides: review of Maxwell's equations, TEM mode transmission lines, quasi-TEM mode lines, surface waveguides; Microwave circuit theory principles: equivalent voltages and currents, Z, Y, S, and ABCD parameters, equivalent circuit representation of microwave junctions, scattering parameters of junctions, coupling of waveguides through probes, loops, apertures; Impedance transformers: review of single-, double- and triple-stub tuners, quarter- wave transformers, design of transformers, tapered transmission lines; Power dividers and couplers: T-junction and Wilkinson power dividers, hybrids; Filters: periodic structures, filter design/theory; Resonators: principles, open and shorted TEM lines as resonators, microstrip resonators, dielectric resonators."
+  },
+  {
+    "name": "Antennas and Wave Propagation",
+    "code": "EE5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Physical concept of radiation, retarded potentials, Hertzian dipole; Antenna parameters: radiation pattern, gain, directivity, effective aperture, and reciprocity; Radiation from dipoles of arbitrary length; Arrays of point sources, endfire and broadside arrays, pattern multiplication, binomial and Dolph-Chebyshev arrays; Log-periodic and Yagi antennas, frequency- independent antennas; Radiation from apertures, slot and horn antennas, parabolic reflector antennas; Radiation from rectangular and circular patches, feeding techniques; Ground wave, surface wave, and space wave propagation; Tropospheric and duct propagation; Structure of ionosphere and ionospheric propagation; Multipath fading, ray bending and other propagation phenomena; Indoor propagation."
+  },
+  {
+    "name": "Introduction to Smart Grid Technology",
+    "code": "EE5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to the smart grid: evolution of smart grid, need and benefits of smart grid, drivers for smart grid, functions, opportunities, and challenges; Enabling technologies: technology drivers, renewable energy resources, Phasor Measurement Units (PMU) and their applications; Distribution systems: DMS, Volt/Var control, fault detection, demand-side management, and transactive energy; Smart grid communications: local area network, house area network, wide area network, broadband over power line, IP based protocols, wireless sensor networks; Data analytics and AI techniques in smart grids: big data management, predictive analysis, applications of AI and ML techniques for smart grid cyber security."
+  },
+  {
+    "name": "Network Economics",
+    "code": "EE5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to networks and graph theory; Introduction to economics and networked markets; Network externalities; Network effects: economy with network effects, power laws and cascading behavior in networks; Introduction to game theory; Social optimal pricing; Competition models: monopoly, perfect competition, oligopoly; Auction theory; Regulatory issues; A case study in internet markets: economic models for ISPs and different pricing models, economics of net neutrality."
+  },
+  {
+    "name": "RF and Mixed Signal Design",
+    "code": "EE5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Basic concepts of wireless communication systems design, transceiver architectures, design flow for RF and mixed signal circuits and systems, technological issues related to CMOS based RF circuits; On chip transmission lines and their properties, modeling of lumped and distributed RF circuits; On chip CMOS low noise amplifiers, power amplifiers, mixers, detectors and switches; Brief review of S/H characteristics and quantization noise, ADC and DAC specifications, ADC and DAC architectures, brief review of OP-AMP based ADC and DAC; Ring- oscillators, LC Oscillators, ring and LC oscillator based voltage controlled oscillators, simple PLLs, PLLs, delay locked loops."
+  },
+  {
+    "name": "RF Microelectronics",
+    "code": "EE5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Basic concepts for transceivers: non-linearities, inter-symbol interference, phase noise in oscillators, sensitivity and dynamic range, image rejection; Modulation: choice of digital schemes for optimum power and spectral efficiency in wireless systems; Transceiver architectures: super-heterodyne, direct conversion, low-IF; Design of CMOS integrated blocks: low-noise amplifier, up- and down-converters, voltage controller oscillators, phase detector, charge pump filter, phase locked loop, frequency synthesizer, power amplifiers; Design practice: design of CMOS building blocks for RF transceivers with Cadence and ADS."
+  },
+  {
+    "name": "Stochastic Geometry for Wireless Networks",
+    "code": "EE5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Point processes: introduction, properties, models, sums and products, moment measures, marked point processes, conditioning and Palm theory; Interference and outage in wireless networks; Bond and site percolation; Random geometric graphs and continuum percolation; Connectivity and coverage."
+  },
+  {
+    "name": "Deep Learning: Theory and\rApplications",
+    "code": "EE6021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to real signals: text, speech, image, and video; Signal processing for feature extraction: Text (BoW), Speech (LPC), Images (Harries, HoG), Videos (BoVW); Neural Networks (NNs): Computational Graph (CG) formulation, matrix vector formulation for back propagation in Deep NNs; Deep learning methods: Convolutional NNs, Training in CNNs; Evolution of CCN architectures; Theory of Recurrent NNs: Back Propagation Through Time (BPTT); Long Short Term Memory (LSTM) RNNs; Applications of Deep Nets: Single and multi-object detection, Image segmentation, 3D reconstruction, Tracking, Word prediction, Image captioning, Attention Networks, Auto encoders and GANs (Generative adversarial networks); Applications in image generation; Understanding of Deep NNs."
+  },
+  {
+    "name": "Network Information Theory",
+    "code": "EE6022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Multiple access channel (MAC): Achievable result for MAC using successive decoding; Outer bound on the capacity region of MAC; Gaussian MAC and its capacity analysis; Broadcast channel (BC): Superposition coding scheme and its optimality for the degraded broadcast channel; Relation between the capacity region of Gaussian BC and MAC; Interference channel (IC) : Information theoretic limits of conventional techniques such as time-sharing and treating interference as noise; Han-Kobayashi scheme and its performance analysis; Advanced interference mitigation techniques such as interference alignment; Relay channels: Information theoretic limits of different relay forwarding schemes such as Amplify and Forward and Decode and Forward."
+  },
+  {
+    "name": "Robotics and Automation",
+    "code": "EE6023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to robotics; Elements of robots; Kinematics of serial and parallel robots; Velocity and static analysis of robots; Dynamics of robots; Motion planning and control; Flexible manipulators; Wheeled mobile robots; Advanced concepts in robotics; Introduction to Cloud and Fog robotics; Basic concepts of industrial automation and communication protocols for PLC, DCS, SCADA systems; Introduction to Internet of Things, Protocols and real time applications."
+  },
+  {
+    "name": "Queueing Theory",
+    "code": "EE6024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Stochastic processes: convergence of random sequences, law of large numbers; Discrete time Markov chains (DTMC): hitting time and recurrence, communicating classes and class properties, discrete time M/M/1 queue; Renewal theory: renewal reward process, Poisson process, stopping times, regenerative processes; Continuous time Markov chain (CTMC): structure of pure jump CTMC, birth and death processes, Little's law, M/M/1 queues, M/M/m queues, M/G/1, queueing systems."
+  },
+  {
+    "name": "Basic Course in Spanish Language",
+    "code": "HS1109",
+    "status": "Core Elective",
+    "credits": "2-0-0-2",
+    "gradLevel": "UG",
+    "description": "Introduction to important elements in language learning, the pronunciation of the script, necessary vocabulary (numbers, things which we use in day to day life, necessary institutions, shops etc.), simple grammar structures useful in greeting people, giving and obtaining personal information, describe things, talking about likings, expressing moods, etc. Introduction to the cultural component of the Spanish speaking people"
+  },
+  {
+    "name": "Basic Course in Spanish Language",
+    "code": "HS1109",
+    "status": "Core Elective",
+    "credits": "2-0-0-2",
+    "gradLevel": "UG",
+    "description": "Introduction to important elements in language learning, the pronunciation of the script, necessary vocabulary (numbers, things which we use in day to day life, necessary institutions, shops etc.), simple grammar structures useful in greeting people, giving and obtaining personal information, describe things, talking about likings, expressing moods, etc. Introduction to the cultural component of the Spanish speaking people"
+  },
+  {
+    "name": "Introduction to the Science of Language",
+    "code": "HS2020",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Origin and Evolution of Language; Linguistics as a Language Science; Ancient Indian Linguistics, Modern Linguistics, Artificial and Natural Languages; Language Varieties; Phonology; Morphology; Syntax and Semantics; Introduction to Transformational Generative Grammar, and Application of Linguistics to Computer Processing of Natural Language."
+  },
+  {
+    "name": "Introduction to Political Economy",
+    "code": "HS2021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "A short history of economic thought, Adam Smith\u2019s economic ideas, Ricardo\u2019s thought, Marxian labour theory of value, Exploitation and class conflict, Marx\u2019s theory of production, The primitive accumulation of capital, Marginalist revolution, Keynesian revolution, Contemporary debates in Keynesian and post-Keynesian economics."
+  },
+  {
+    "name": "English for Communication",
+    "code": "HS2022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Process of communication, effective communication, channels of communication, barriers to communication, debate, extempore, writing strategies, paragraph writing, connectors, punctuation, vocabulary building, report writing, statement of purpose (SoP), letter writing, email writing, netiquettes, role play, public speaking, listening skills"
+  },
+  {
+    "name": "Introduction to Philosophy",
+    "code": "HS2023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Words and the world: Language and reality; How can we know: Sources of knowledge; What is the world like: Realism and Idealism; The way the world works: Scientific knowledge; What is and what must be: Freedom and Determinism; What am I: The physical and the mental; The Is and the Ought: Problems in ethics."
+  },
+  {
+    "name": "Organizational Behavior",
+    "code": "HS2024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Introduction to the field of organizational behavior; individual behavior and processes; personality and values; perception and individual decision making; workplace emotions, attitudes and stress; employee motivation and interpersonal processes; group and team dynamics; communicating in teams and organizations; power and influence in the workplace; conflict and negotiation in the workplace; leadership in organizational settings."
+  },
+  {
+    "name": "International Trade and Finance",
+    "code": "HS2030",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Content words): Ricardian Theory of Comparative Advantage, Heckscher-Ohlin Model of Trade, Economies of scale and international trade, infant industry protection, criticisms of trade theories, economics of outsourcing. Balance of payments, exchange rate determination, financial markets, globalization."
+  },
+  {
+    "name": "The Indian Economy",
+    "code": "HS2211",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Content words): Indian economy under colonial rule, the \u201cde-industrialization\u201d debate, precursors to economic planning. Planning in post-colonial India, agricultural development, industrialization, banking and finance, the demise of post-War planning and liberalization. Political economy of liberalization, agricultural crisis, industrial development in the neoliberal era, macroeconomic issues, state-wise performance, banking sector, human development."
+  },
+  {
+    "name": "Basics of Microeconomics",
+    "code": "HS3021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Review of principles of economics, Preferences, Consumer behavior, Producer theory, Theories of the firm, Applications to labor markets, health and education, Externalities and Public Policy, Capital controversies, Introduction to general equilibrium and welfare economics, Introduction to game theory, Economic applications of game theory"
+  },
+  {
+    "name": "Principles of Economics",
+    "code": "HS3022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Ten principles of economics and thinking like an economist; Interdependence and the gains from trade; The market forces of supply and demand; Elasticity and its applications; Supply, demand and government policies; Consumers, producers and the efficiency of markets; The cost of taxation and international trade; The costs of production; Firms in competitive markets; Monopoly; Monopolistic competition; Oligopoly; Measuring a nation\u2019s income; Measuring the cost of living; The monetary system"
+  },
+  {
+    "name": "Introduction to Financial Management",
+    "code": "HS3023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Financial Statements; Time value of money; Valuation of Future Cash Flows; Stock and Bond Valuation; Capital Budgeting, Risk & Return; Cost of Capital and Long Term Finance Policy; Working Capital Management."
+  },
+  {
+    "name": "Science, Technology and Society",
+    "code": "HS3030",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Bertold, Brecht\u2019s play, The Life of Galileo; Bertrand Russell\u2019s work, The Impact of Science on Society; the relation between natural intelligence and Artificial Intelligence by examining the relation between modern conception of individual instituted by Descartes and the thinking machine; positive and negative aspect of technology by discussing specific instance like the use of technology for welfare of human being; the Bhopal disaster; Science and technology in India with reference to Swami Vivekananda and Sri Aurobindo."
+  },
+  {
+    "name": "Indian Literature: Text and Performance",
+    "code": "HS3040",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Poetry: Charagh-i-Dair (Temple Lamps) by Mirza Ghalib; Book-I of G\u012bta Govindam by Jayadeva; Selected Couplets of Virtue and Love from Thirukkural by Thiruvalluvar; Prose: Selections from The Wings of Fire; Novel: Samskara by U. R. Anantha Murthy; Short Stories: Hajar Churashir Maa (Mother of 1084) by Mahasweta Devi, An Astrologer\u2019s Day by R. K. Narayana; Drama: Naga Mandala by Girish Karnad"
+  },
+  {
+    "name": "Reading Indian Cinema",
+    "code": "HS3050",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Overview of Indian Cinema; Aesthetics of Indian Cinema; Nature and Evolution of Genres (Mythological, Social, Realistic and Melodramatic); Globalization and Indian Cinema and Cinema and Politics"
+  },
+  {
+    "name": "Foundations to Indian National\rMovement",
+    "code": "HS3060",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Entry of the British through East India company to do trade, A case of outsider entering without using violence, Justification for use of violence or non- violence by the Indian National leaders to send British out and achieve independence, The use of political to enhance trade, Use of violence by the British to maintain power in India, Justification of their rule over India in the form of Macaulay Minutes and educational reform in India, A critique of Macaulay who totally privileged western education and presented a bleak picture about India, The attempts by those like Swami Vivekananda and Sri Aurobindo who offered a different formula, namely, partial virtues and vices, This consists of: the relation between science and religion; militarizing Hinduism to spiritualizing politics; need for self-criticism of what lies inside; and eradicating social evils in Indian society"
+  },
+  {
+    "name": "Leadership and Team Management",
+    "code": "HS3221",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Leadership as a Process, Leader Development, skills for developing oneself as a leader, Power and Influence, Leadership Ethics and Traits, leadership Attributes, Leadership Behavior, Motivation, satisfaction, and Performance, Groups, teams and leadership, Skills for developing others, The Situation, Contingency theories of Leadership, Leadership and Change, The dark side of Leadership, Teams: conceptual foundations, Team effectiveness, Leading teams: Enhancing teamwork within group: The leader\u2019s role in team based organizations, Leader actions that foster teamwork, the leader-member exchange model and team work, Understanding team processes and Team Coaching, Virtual teams, managing multicultural teams, Building great teams."
+  },
+  {
+    "name": "Organizational Psychology: Theory\rand Practice",
+    "code": "HS4021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Introduction to Organizational Psychology, Research Methods and Statistics, Attraction and Socialization, Productive Behavior in Organizations, Job Satisfaction and Organizational Commitment, Counterproductive Behaviour, Occupational Stress and Employee Health, Foundations of Individual Behavior how it is influenced by values, attitudes, personality, Motivation \u2013 Concepts and Applications, Group Dynamics, Understanding Teams, Leadership, Organizational Theory and Design, Organizational Culture, Organizational Change and Development."
+  },
+  {
+    "name": "Indian Political Thought",
+    "code": "HS4022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "From Political Thought in India to Indian Political Thought; the idea of Dharma; Sapthanga theory of the state; Bhakti movement; Renaissance and Reformist movement in modern India; Hindu nationalism; Liberal and radical thoughts."
+  },
+  {
+    "name": "Introduction to Public Speaking",
+    "code": "HS4121",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Understanding speech; basics of communication; phonetics and phonology; word formation; making ideas compelling and memorable; critical reading and listening; theatrics; kinesics; extempore; debate; group discussion; overcoming fear of public speaking; etiquettes and manners; cross-cultural communication; interview skills; oral presentation; common errors; Indian English and other varieties of English"
+  },
+  {
+    "name": "Academic Writing",
+    "code": "HS4122",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Paragraph structure (topic sentence, supporting examples, transition sentence); methods of writing; basic rhetorical modes (narration, description, exposition); writing process (pre-writing, writing, re-writing); punctuation, effective use of quotation, paraphrase and summary; stylistics (vocabulary, conciseness); letter writing; notice writing; report writing; resume/CV writing; proposal; netiquette; statement of purpose (SoP); plagiarism"
+  },
+  {
+    "name": "Introduction to Behavioral Economics",
+    "code": "HS6021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Behavioral Economics: Origins and Departure from Classical and Neo-classical Economics; Bounded Rationality; Individual Decision Making: Decision making under Risk and Uncertainty and Intertemporal Choice; Strategic Decision Making: Classical Game Theory, Behavioral Game Theory, and Social Preferences"
+  },
+  {
+    "name": "Financial Institutions and Markets",
+    "code": "HS6022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Overview of the Financial System; Money Markets; Capital Markets: Bond Markets and Stock Markets; Foreign Exchange Markets and International Financial Markets; Hedging and Derivatives Markets"
+  },
+  {
+    "name": "Indian Metaphysics",
+    "code": "HS6023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Nature of Brahman and Atman; reasons for moving from Upanisadic format of exploration to a systematic compilation by Badarayana; method used by Badarayana in compiling Vedanta Sutras; differences between ideas and argumentation in Upanishads and presentation of these in the form of Sutra by Badarayana; method of comparison by Gaudapada; claims and counter claims regarding Gaudapada; Karika of Mandukya Upanishad as a Buddhist text claimed by Vidhusekhara Bhattacharyya and that it is a Vedanta text as claimed by Raghunath Damodar Karmarkar"
+  },
+  {
+    "name": "Modern Indian Philosophy",
+    "code": "HS6024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "The state of Indian knowledge systems: the plurality and the interaction between different systems; Western critique of Indian systems and their attempt to introduce modern Western knowledge systems; Indian response to Western critique consisting of both radicals and reformists; internal criticism by Indians on Indian knowledge systems and social practices."
+  },
+  {
+    "name": "Philosophical Discourse of Modernity",
+    "code": "HS6025",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "The cognitive individual in Descartes's Cogito, ergo sum; Hume\u2019s attack on rationality; Kant\u2019s attempt at revising Cartesian project of individualism; Husserl\u2019s thesis of crisis in European Sciences, MacIntyre\u2019s diagnosis of nihilism underlying the project of modernity; Taylor\u2019s attempt to revise the project of modernity"
+  },
+  {
+    "name": "Philosophy, Politics and Society",
+    "code": "HS6026",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "The nature and scope of political philosophy; Machiavelli on Government; Hobbes and Locke\u2019s theories of state; Rousseau\u2019s General Will; Hume and Burke on conservatism; Hegel\u2019s idealist State; Utilitarian theories of Bentham and Mill; Marxism, Communism, Socialism and Post-structuralism."
+  },
+  {
+    "name": "New Media and Digital Culture",
+    "code": "HS6027",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Understanding new media, convergence culture, remediation, globalization and new media, network society, theories of information society, digital divide, inequality and participation, emergence of digital platforms, Facebook, WhatsApp, Twitter, political economy of social media, public sphere, identity and cyber culture, YouTube culture, social media and communication power, politics, culture, platform society: mobile applications and everyday life"
+  },
+  {
+    "name": "Behavioral Finance",
+    "code": "HS6028",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to behavioral finance; Limits to arbitrage; Cognitive biases; Prospect theory; Non-consequentialism; SP/A theory; The decision making process and behavioral biases; Decision theory paradoxes; Stock market anomalies; Understanding investor behaviour; What \"intelligence\" means for investors."
+  },
+  {
+    "name": "Fundamentals of Econometrics",
+    "code": "HS6029",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Classical linear regression model; OLS derivation and its properties; Multiple regression analysis; Interpreting multiple regression coefficients; Multiple regression analysis with assumptions: Heteroskedasticity; qualitative Multicollinearity; Auto-correlation; Introduction to time series analysis. specification; Relaxing OLS information"
+  },
+  {
+    "name": "Fundamentals of Econometrics",
+    "code": "HS6029",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Classical linear regression model; OLS derivation and its properties; Multiple regression analysis; Interpreting multiple regression coefficients; Multiple regression analysis with assumptions: Heteroskedasticity; qualitative Multicollinearity; Auto-correlation; Introduction to time series analysis. specification; Relaxing OLS information"
+  },
+  {
+    "name": "Advanced Literary Criticism",
+    "code": "HS6101",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "New Criticism, moral formalism and F R Leavis; Russian Formalism and the Bakhtin School; Reader oriented theories; Structuralist Theories; Marxist Theories; Feminist Theories; Poststructuralist Theories; Postmodernist Theories; Post colonialist theories and New Historicism"
+  },
+  {
+    "name": "Cultural Studies",
+    "code": "HS6102",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Contents: Understanding Culture; Introducing Cultural Studies; Understanding Popular Culture; Identity and Representation; Culture Industry and Cyber Culture"
+  },
+  {
+    "name": "Indian Literature in Translation",
+    "code": "HS6103",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Translation: Theory and Practice; Introduction to Indian Literature; Vedic Literature; Indian Epic Poetry; Malavikagnimitra by Kalidas; Selections from Jataka Tales; Kadambari by Banabhatta; Rag Darbari by Shrilal Shukla; Ghasiram Kotwal by Tendulkar; Selections from Srngar Shatkam, and Niti Shatkam by Bhartrhari"
+  },
+  {
+    "name": "Indian Poetics",
+    "code": "HS6104",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Bharatamuni on Natya and Rasa; Anandavardhana on Dhvani; Kuntaka on Language of Poetry and Metaphor; Bhartrhari on Syntax and Meaning Study of the concept of Vakrokti and its application; Study of the concept of Anumann and its application; Learning the theory and application of Riti, Guna and Alamkara"
+  },
+  {
+    "name": "Advanced Organizational Behavior",
+    "code": "HS7021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to the field of organizational behavior; individual behavior and processes; personality and values; perception and individual decision making; workplace emotions, attitudes, and stress; employee motivation; interpersonal Processes, group and team dynamics; communicating in teams and organizations; power and influence in the workplace; conflict and negotiation in the workplace; leadership in organizational settings."
+  },
+  {
+    "name": "Data Analysis for Management",
+    "code": "HS7022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to management research design; fundamentals of comparative and non-comparative scaling techniques; questionnaire and form design; sampling design and procedures; data collection, fieldwork, data preparation; frequency distribution and cross-tabulation; hypothesis testing;analysis of variance and covariance; correlation and regression; discriminant and logit analysis; factor analysis; structural equation modeling and path analysis. research;"
+  },
+  {
+    "name": "Human Resource Management",
+    "code": "HS7023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Nature and scope of human resource; business strategy and HR Integration; analyzing work and designing Jobs; recruitment and placement; employee testing and selection; training, development and career management; appraising and managing performance; compensation & benefits; employee health and safety issues; discipline and employee rights."
+  },
+  {
+    "name": "Organization Structure and Design",
+    "code": "HS7024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to organizations and organizational theory, strategy, organizational design and effectiveness; fundamentals of organization structure; the external environment; Inter-organizational relationships; designing organizations for international environment; organizational size, life cycle and decline; organizational culture and ethical values; Innovation and change."
+  },
+  {
+    "name": "Development Economics",
+    "code": "HS7101",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Uneven development, Historical origins of global inequalities, alternative approaches to development. Theories of structural change, agricultural development and industrialization, economics of inequality, economics of poverty, traditional growth theories, theories of international trade and development, infant industry protection, industrial policy in the era of globalization, heterodox approaches to international trade theory, technology and its role in economic development. Poverty traps, \u201cnew\u201d institutional economics, Case studies of developing economies"
+  },
+  {
+    "name": "Applied Econometrics",
+    "code": "HS7103",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Introduction to Simple and Multiple Regression Analysis, Regression with Dummy Variables, Multi-equation Models Discrete Response Models: Introduction to Binary Variables, Probit and Logit Models, Multinomial Models, Ordinal Models, Count Data Models Limited Dependent Variables and Sample Selection: Censored versus truncated, TOBIT model, Truncated Regression, Heckman Selection Model Panel Data Model: Introduction to panel data, pooled repeated cross-section model, fixed effects and random effects, Hausman test Average Treatment Effects: Counterfactuals and self-selection, propensity score matching, difference-in-difference, regression discontinuity design approach, Quantile regression, Endogenous Switching Regression Multivariate Statistical Models: Principal component analysis and factor analysis, Structural equation models"
+  },
+  {
+    "name": "AdvancedEnvironmentalandResource\rEconomics",
+    "code": "HS7105",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Introduction to environmental and resource economics; Economy-environment interaction; Market failure, property rights, common property resources, public goods; Environment and development sustainable development; Economics of exhaustible and renewable resources; Resource curse; Market structures and optimal extraction policy Environmental valuation \u2013 market and non-market, production function approach, revealed and stated preference methods; Environmental policy instruments; The environmental issues and regulations in India trade-off; Concepts of"
+  },
+  {
+    "name": "Economics of Climate Change",
+    "code": "HS7202",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Introduction to Climate Change; Brief overview of impact of climate change (sectoral, regional and global) Climate change adaptation \u2013 impact and vulnerability assessment, economics of adaptation, measurement of adaptation cost, adaptation fund; mitigation \u2013 environmental policy instruments, decisions under risk and uncertainty, stock pollutants and discounting, Nordhaus vs. Stern; Trade-off between adaptation and mitigation; vulnerability (measurement techniques) and loss and damage International cooperation and climate policy: International treaties (Rio and beyond), adaptation fund, India\u2019s position in Climate Negotiation, Inter- and intra-generational equity"
+  },
+  {
+    "name": "Microeconomics",
+    "code": "HS7204",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Content words): Introduction to linear algebra, optimization for economics, basic real analysis. Consumer behaviour, producer behaviour, introduction to general equilibrium, introduction to game theory. Classical political economy from Adam Smith to Ricardo, Marxian political economy."
+  },
+  {
+    "name": "Program Evaluation",
+    "code": "HS7206",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Introduction to Impact Evaluation: why evaluate and preparing for an evaluation How to Evaluate: Randomized Control Trials, Instrumental Variables, Regression Discontinuity Design, Difference-in-Difference, Propensity Score Matching, & Methodological Challenges How to Implement an Impact Evaluation: Choosing an Impact Evaluation Method, Managing an Impact Evaluation, Disseminating Results and Achieving Policy Impact How to get data for an Impact Evaluation: Choosing a Sample, Finding adequate sources of data"
+  },
+  {
+    "name": "Product Innovation and Development",
+    "code": "ID3022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "The elements of good and bad design by example. Introduction to the design process, user research, human factors and ergonomics. Understanding the user and the use environment through observation, discussions and direct experience; Translating customer requirements to design requirements; Ideation; Human factors and manufacturability in design; CAD modeling for product design; Prototype development; Usability analysis and testing"
+  },
+  {
+    "name": "Innovation and Entrepreneurship",
+    "code": "ID4022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Defining entrepreneurship, anatomy of entrepreneur, ideation process, idea evaluation, customer identification, market research, competitive advantage, elevator pitch. Customer requirements to product feature mapping, technology/manufacturing product development, scaleup. Market entry and growth, competitors and collaborators, pricing. SWOT analysis, BASE board, financial planning. Team and organisation culture, legal considerations, fund raising, exit. intellectual readiness property, levels,"
+  },
+  {
+    "name": "Physical Techniques for Material and\rLife Sciences",
+    "code": "ID5021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "[a] Various material synthesis methods of bulk single crystals and thin films. [b] Cryogenic physics: different cryostats; and thermodynamic properties: specific heat, thermal expansion, thermal conductivity, DSC, TGA, transport properties, magnetic properties, Hall effect; measurements at extreme conditions: very low temperatures, high pressure and high magnetic fields. [c] Hydrodynamic and microscopic techniques for molecular characterization: diffusion, centrifugation, transform NMR viscometry, osmosis. spectroscopy, 2D NMR and NMR imaging, ESR, Infra-Red and UV-visible spectroscopy, vibrational scattering, Raman spectroscopy, Stokes and anti-stokes lines. [e] Molecular characterization: X-ray rotatory dispersion, circular dichroism, mass diffraction methods, optical spectrometry. [d] Molecular spectroscopy: Fourier levels, Rayleigh and Raman"
+  },
+  {
+    "name": "Mathematical Methods for Basic Sciences II",
+    "code": "ID6101",
+    "status": "Elective",
+    "credits": "3 \u2013 0 \u2013 0 \u2013 3",
+    "gradLevel": "PG",
+    "description": "Integral transforms: Laplace transforms and Fourier transforms. Applications in Spectroscopy and Quantum Mechanics. Complex functions. Cauchy-Riemann conditions. Power series. Cauchy\u2019s integral theorem. Conformal mapping. Singularities: poles, essential singularities. Residue theorem. Contour integration and examples. Analytic continuation. Multiple-valued functions, branch points and branch cut integration. Coulomb functions. Applications of the Lambert W function to solve problems in quantum mechanics. Probability theory. Probability distributions and probability densities. Standard discrete and continuous probability distributions. Moments and generating functions. Central Limit Theorem. Group theory: Elements of group theory. Molecular Point Groups. Proof of the Great Orthogonality Theorem. Character Tables. Continuous groups. Rotation groups. SO(3), SU(2) and SO(4)."
+  },
+  {
+    "name": "Quantum Mechanics II",
+    "code": "ID6102",
+    "status": "Elective",
+    "credits": "3 \u2013 0 \u2013 0 \u2013 3",
+    "gradLevel": "PG",
+    "description": "Quantum Collision Theory. Partial Wave Analysis. Angular Distributions in Scattering. Levinson\u2019s Theorem and Seaton\u2019s Theorem. Resonance states. Analysis of Breit Wigner Resonances. Fano and Generalized Fano Parametrization of Resonances. Relativistic Quantum Mechanics. Dirac Equation. Foldy-Woutheysen Transformations and interpretation of spin-orbit coupling, zitterbewegung, Darwin terms, Lamb shift. Hartree-Fock Self-Consistent Field Formalism. Koopmans Theorem. Exchange and Coulomb Correlations. Many-electron Correlations. Approximate solutions of the many-body problem. Random Phase Approximation, Density Functional Theory, Diagrammatic Perturbation Theory."
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MA2021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Systems of linear equations, vector spaces, subspaces, linear independence, basis, dimension, linear transformation and their representation by matrices, rank-nullity theorem, eigenvalues, eigenvectors, eigenvalues of special types of matrices, spectral radius, similarity of matrices, basis of eigenvectors, diagonalization, Cayley-Hamilton theorem, inner product spaces, orthonormal sets, Gram-Schmidt process, spectral theorems for real symmetric and normal matrices, Jordan canonical forms, least-squares problems."
+  },
+  {
+    "name": "Complex Variables",
+    "code": "MA2022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Analytic functions: Limits and continuity, differentiability and analyticity, analytic branches of inverse of functions, branches of logarithm, Cauchy- Riemann equations, harmonic conjugates. Complex integral: Cauchy's theorem and integral formula, series of complex functions and the Weierstrass M-test, Taylor series, identity theorem, isolation of zeros of an analytic function, statements of open mapping, inverse function, Liouville theorem, fundamental theorem of Algebra. Residue Calculus: Singularities and their classification, Laurent series, residue theorem and argument principle, computing real integrals using residues. Bilinear transformation, conformal mapping, elementary properties of the mapping of exponential, sine and cosine functions."
+  },
+  {
+    "name": "Probability and Statistics",
+    "code": "MA2023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Probability: Probability models and axioms, conditioning and Bayes' rule, independence discrete random variables; probability mass functions; expectations, examples, multiple discrete random variables: joint PMFs, expectations, conditioning, independence, continuous random variables, probability density functions, expectations, examples, multiple continuous random variables, transformation of random variables, covariance and correlation, iterated expectations, convolution; notion of convergence, weak law of large numbers, central limit theorem. Statistics: Concepts of Statistical Inference, Point Estimation, Methods of Estimation, Confidence Intervals, Testing of Hypotheses, Bayesian Statistical Inference."
+  },
+  {
+    "name": "Numerical Analysis",
+    "code": "MA2024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "UG",
+    "description": "Introduction: Round-off Error, Truncation Error, Errors in Scientific and Engineering Computation. Interpolation: Lagrange\u2019s interpolation, forward, backward and divided differences, error of the interpolating polynomial. Numerical Solutions of Nonlinear Equations: Bisection method, regula-falsi, secant method, Newton's method, fixed-point iteration, convergence acceleration for fixed- point iteration, real roots of polynomials, complex roots of polynomials. Numerical Integration: Basic methods of numerical integration, Gaussian rules, composite rules, adaptive quadrature. Solution of a System of Linear Equations: Gaussian elimination, pivoting strategy, LU- factorization, Cholesky's method, ill-conditioning, norms, Jacobi and Gauss-seidel methods, partial pivoting. Numerical Solution of Differential Equations: Taylor series method, Euler method, Runge-Kutta method, predictor- corrector methods for initial value problems, Adams-Moulton method, shooting method and finite difference methods for boundary value problems."
+  },
+  {
+    "name": "Linear Algebra for Engineers",
+    "code": "MA5021",
+    "status": "Elective",
+    "credits": "2-0-0-2",
+    "gradLevel": "PG",
+    "description": "System of linear equations, row-reduce echelon matrices, invertible matrices, vector spaces, subspaces, linear dependence, linear independence, basis and dimension, linear transformations, inner product spaces, Gram-Schmidt orthogonalization, eigenvalues, eigenvectors, diagonalization of symmetric and Hermitian matrices. functionals, linear"
+  },
+  {
+    "name": "Probability Theory for Engineers",
+    "code": "MA5022",
+    "status": "Elective",
+    "credits": "2-0-0-2",
+    "gradLevel": "PG",
+    "description": "The axioms of probability, conditional probability, independence, Bayes' rule, random variables, distribution functions, expectation and variance, properties of expectation, covariance and correlation, multivariate normal distributions, transformations of random variables, sum of random variables, moment generating functions, characteristic functions, Chebychev's inequality, notions of convergence, law of large numbers, central limit theorem, the concept of statistical inference, the method of maximum likelihood estimation."
+  },
+  {
+    "name": "Differential Equations for Engineers",
+    "code": "MA5023",
+    "status": "Elective",
+    "credits": "2-0-0-2",
+    "gradLevel": "PG",
+    "description": "Ordinary differential equations: existence and uniqueness, first-order linear equations, initial value problems, exact solutions, second-order linear equations, variation of parameters, Green's functions, power series solutions, ordinary and singular points, Frobenius series, Legendre and Bessel's function, Sturm-Liouville boundary value problems, Fourier series, Fourier integrals; Partial differential equations, classifications, wave equations, heat equations, initial and boundary conditions, Laplace equations in Cartesian, polar and spherical coordinates."
+  },
+  {
+    "name": "Mathematics for Engineers",
+    "code": "MA5101",
+    "status": "Elective",
+    "credits": "3-1-0-4",
+    "gradLevel": "PG",
+    "description": "System of linear independence, inner product spaces, Gram-Schmidt orthogonalization, eigen values, eigen vectors, diagonalization of symmetric and Hermitian matrices. linear dependence, linear equations, Linear equations, variation of constants formula, Sturm-Liouville boundary value problems, Power Series solutions, Legendre and Bessel\u2019s functions, Fourier series and Fourier integrals. 1-D and 2-D Wave and Heat equations with initial and Boundary conditions, 2-D and 3-D Laplace\u2019s equations with circular and Spherical symmetry."
+  },
+  {
+    "name": "Statistical Methods for Engineers",
+    "code": "MA5103",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Descriptive Statistics, Sampling Distributions, Point Estimation, Interval Estimation, Testing of Hypothesis, Linear Regression Models, Analysis of Variance, Complete Randomized Designs, Randomized Block Designs, Factorial experiments."
+  },
+  {
+    "name": "Topology",
+    "code": "MA6021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Topological Spaces, Basis for a topology, Subspace topology, Closed sets and Limit points, Nets and convergence, Continuous Functions and homeomorphisms, Product Topology, Quotient Topology. Connected spaces, Components and Local Connectedness, Path connectedness, Compact spaces, Local compactness, Compactifications. The Countability and Separation axioms, The Urysohn Lemma, The Urysohn Metrization Theorem, The Tietze Extension Theorem, Tychonoff Theorem."
+  },
+  {
+    "name": "Functional Analysis",
+    "code": "MA6022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Normed linear space; Banach spaces and basic properties, Bounded linear maps on a normed linear spaces and operator norm, Hahn-Banach theorem, Uniform Boundedness Theorem, Open Mapping Theorem, Closed Graph Theorem and Banach Fixed Point Theorem. Dual spaces and adjoint of an operator. Inner product set, Gram Schmidt orthonormalization, Bessels inequality, Orthonormal basis, Separable Hilbert spaces. theorem, Bounded operators on Hilbert Projection and Riesz representation spaces:Adjoint, normal, unitary, self adjoint operators, compact operators. Spectral theorem for compact self adjoint operators. and Hilbert orthonormal spaces, spaces"
+  },
+  {
+    "name": "Number Theory",
+    "code": "MA6023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Partitions, Inclusion\u2013exclusion principle, Pigeonhole principle, Recurrence relations, Generating functions, Primes, Divisibility and the Fundamental theorem of arithmetic, Euclidean algorithm, Congruences, Ring of integers mod n, Chinese Remainder Theorem, Fermat's Last Theorem, Hensel\u2019s lemma, Finite Fields, Arithmetic functions, Mobius inversion formula, Quadratic residues, Quadratic reciprocity law, Binary quadratic forms, Sum of two squares theorem, Continued fractions, Pell's equation, Diophantine equations, Prime Number Theorem, Bertrand\u2019s postulate, Introduction to Riemann Zeta function, Dirichlet\u2019s L-functions and Elliptic Curves."
+  },
+  {
+    "name": "Partial Differential Equations",
+    "code": "MA6024",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "First order PDE: Linear, quasi-linear and non-linear PDE Initial- Value Problem, Homogenous and nonhomogeneous problem, Fundamental solution, Green\u2019s Function, Energy methods, mean value formula, Transport, Laplace, heat and wave equations. D\u2019Alembert\u2019s solution, Fourier method, Poisson integral formula, PDE problems in Cartesian and polar coordinates on rectangular, circular and annular regions. Non-linear PDE: Complete Integrals, Envelopes, Characteristic ODE, Hamilton-Jacobi equation, conservation laws, weak solution, uniqueness, Riemann problem. Second Order PDE: Classifications \u2013 elliptic, parabolic, hyperbolic, canonical forms of equations in two independent variables, Lax-Milgram theorem, regularity. Applications: Diffusion and wave maximum-minimum principles, equations in higher dimensions and a few industry and engineering applications."
+  },
+  {
+    "name": "Continuum Mechanics",
+    "code": "MA6025",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Algebra of Cartesian tensors, index notation, isotropic tensors, invariants of a tensor; Continuum hypothesis, Lagrange strain, Eulerian strain, Cauchy Green strain, polar decomposition theorem, rotation tensor, Reynolds transport theorem, vorticity; Kinematics of deformation, compatibility conditions, balance principles; Cauchy stress, stress invariants, Piola- Kirchhoff stresses; Euler's laws of motion, field equation, conservation laws, first and second laws of thermodynamics, stress-laws of thermodynamics, energy balance; Constitutive equations of fluids, viscoelastic and hyperelastic materials, principles of material objectivity; Solutions to simple boundary value problems, linearized field equations, examples of linear elastic solutions."
+  },
+  {
+    "name": "Mathematical Modelling",
+    "code": "MA6026",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "System, models, simulations, physical models, input-output systems, open and closed systems; Mathematical models, state variables, black box system, classification, characterization, limitations, properties, source of errors, dimensional analysis, applications, non- uniqueness; Real problems, parameter identification, reduced system, reduction of an open problem to a closed problem, conversion of a real problem into a mathematical problem; Analytical and interpretation, well-posedness; Mechanistic models, ordinary numerical solutions, physical differential equations, partial differential equations, Navier-Stokes equation, traffic flow, difference equations, cellular automata, optimal control problems, inverse problems."
+  },
+  {
+    "name": "Non-parametric Statistics",
+    "code": "MA6028",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Order Statistics, Quantiles, Empirical Distribution Function, Jackknife and bootstrap tests of Randomness, Tests of Goodness of fit, One sample, and paired sample procedure, Two and k samples procedures, Linear rank Statistics, Smoothing, Nonparametric regression, Density estimation, Introduction of M estimation."
+  },
+  {
+    "name": "Bayesian Statistics",
+    "code": "MA6029",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to Bayesian Inference and Decision Theory, Utility, Prior, Rational Preference, Coherence, Classes of Priors, Posterior Loss and model Robustness, Limit and Asymptotic Expansion of Posterior Distribution, Choice of Priors for Low-Dimensional Parameters, Jeffrey's Prior, Conjugate Priors and Mixtures, Hypothesis Testing, Model Selection, Expectation Maximization (EM) Algorithm, Markov Chain Monte Carlo (MCMC), Metropolis-Hastings Algorithm, Gibbs Sampling, High Dimensional Problems, Hierarchical Priors."
+  },
+  {
+    "name": "Statistical Finance",
+    "code": "MA6030",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Binomial no-arbitrage pricing model, capital asset pricing model, binomial model for interest rate, Black-Scholes-Merton formula, evolution of portfolio value, evolution of option value, put-call parity, value of portfolio process under the risk-neutral measure, hedging with one stock, continuously paying dividend, interest rate models, forward contract, future contract, forward- futures spread, forward price, term structure models, expected shortfall, value at risk."
+  },
+  {
+    "name": "Categorical Data Analysis",
+    "code": "MA6031",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Contingency tables, joint, marginal, and conditional probabilities, independence, comparing proportions, relative risk, odds ratios, inference for odds ratios, tests of independence, Pearson statistic, chi-square distribution, likelihood ratio statistic, tests of independence for ordinal data, exact inference for small samples, models of binary response variables, logistic models, confidence intervals for effects and probabilities, significance testing, logistic regression with categorical predictors, multiple logistic regression, model selection, stepwise variable selection algorithm, AIC criteria, model checking, likelihood-ratio tests, goodness of fit test, deviance, multi- category logit models."
+  },
+  {
+    "name": "Spatio-Temporal Modelling",
+    "code": "MA6032",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Statistical preliminaries: conditional probabilities, hierarchical modelling, inference and diagnostics, posterior distribution, graphical representation of statistical dependencies; Spatial random processes: geostatistical, lattice, spatial point processes, and random sets; Spectral analysis of spatio-temporal data, empirical orthogonal functions, principal oscillation pattern, spatio- temporal canonical correlation, covariance function, and kriging, spatio-temporal statistical models, hierarchical dynamical spatio-temporal models."
+  },
+  {
+    "name": "Functional Data Analysis",
+    "code": "MA6033",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Exploring functional data, phase plane plot, representing function by basis function and some useful basis, smoothing functional data by least squares and weighted least squares technique, choosing the number of basis functions, smoothing by roughness penalty, fitting functions, registration, principal component analysis, canonical correlation, and discriminant analysis, functional response and multivariate and functional covariates, functional linear models with scalar and functional response."
+  },
+  {
+    "name": "Operations Research",
+    "code": "MA6034",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to Operations Research (OR) models, linear programming problems (LPP), graphical methods for solving LPP, convex sets, the simplex method, Big M method, solutions of LPP, primal and dual problems, dual simplex method, transportation problems, unbalanced transportation problems, degeneracy, assignment problems, optimal solutions of assignment problems, sensitivity analysis, network models, advanced linear programming algorithms, supply chains, inventory modeling, decision analysis, decision under risk, decision under uncertainty, two-person zero-sum games, mixed strategy games, single server, multiple server queuing models, M/M/R queuing models."
+  },
+  {
+    "name": "Statistical Simulations and Data Analysis",
+    "code": "MA6035",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Pseudorandom number generation, random numbers to evaluate integrals, inverse transform method, acceptance-rejection technique, generating discrete random variables and vectors, the inverse transform algorithm, rejection method, generating continuous random variables, vectors, and processes, generating variables from copula models, single, series and parallel queueing system simulation, insurance risk model and stock price model simulation, simulation involving mean and variance; Variance reduction techniques: antithetic variable, control variates, conditioning, stratified sampling, importance sampling; Evaluating an exotic option, conditional Bernoulli sampling, normalized importance sampling, Latin hypercube sampling, goodness of fit test, Hastings Metropolis algorithm, Gibbs sampler."
+  },
+  {
+    "name": "Biostatistics",
+    "code": "MA6036",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: clinical trials, process, investigation, application, practice; Statistical concept: probability, interaction, inference, testing, significance; Randomization: models, methods, implementations, blinding; Designs: group designs, randomized designs, crossover designs, titration designs, up and down phase I designs, continual reassessment method phase I designs, multiple stage designs, randomized phase II designs; Classifications: multicenter trials, dose-response trials, combination trials, bridging studies and global trials, vaccine clinical trials; Analysis: estimation, hypothesis testing, ANOVA, ANCOVA, nonparametric methods; Sample size determination: basic concept, two samples, multiple samples; Analysis of categorical outcomes: independence, odds ratio, relative risk, logistic and multiple regression models."
+  },
+  {
+    "name": "Lie Algebras",
+    "code": "MA6037",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Definition and examples of Lie algebras, subalgebras, ideals, homomorphisms, quotient algebras, solvable and nilpotent Lie algebras, Engel's theorem, Lie's theorem, Jordan- Chevalley decomposition, Cartan's criterion for solvability, Killing form, Weyl's complete reducibility theorem, preservation of Jordan decomposition, representations of sl(2, C), root space decomposition of semisimple Lie algebras, root systems, bases, Weyl chambers, Weyl group, Cartan matrices, Dynkin diagrams, classification of root systems."
+  },
+  {
+    "name": "Representation Theory",
+    "code": "MA6038",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Definition and examples of representations of a group, sub representations, irreducible representations, complete reducibility (Maschke's theorem), tensor product of two representations, character of representation, Schur's lemma, orthogonality of characters, decomposition of the regular representation, permutation representation, semistandard Young tableaux, Robinson-Schensted-Knuth correspondence, classification of irreducible representations of symmetric group."
+  },
+  {
+    "name": "Linear Integral Equations",
+    "code": "MA6101",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Classification of Integral Equations; Fredholm Equations of Second Kind: Mapping Properties, Compact Operators, Adjoint Operators, Riesz Theory, Fredholm Theory; Numerics for Fredholm Equations: Degenerate Kernel Approximations, Projection Methods, Collocation Methods, Quadrature Methods; Volterra Equations;"
+  },
+  {
+    "name": "Fixed Point Theory",
+    "code": "MA6102",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Contraction Principle, and its variants and applications; Fixed points of nonexpansive maps and set valued maps, Brouwer -Schauder fixed point theorems, Ky Fan Best Approximation Theorem, Principle and Applications of KKM -maps, their variants and applications. Fixed Point Theorems in partially ordered spaces and other abstract spaces. Application of fixed point theory to Game theory and Mathematical Economics."
+  },
+  {
+    "name": "Fractal Geometry",
+    "code": "MA6103",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Classic Examples of Fractals, Metric Space, Equivalent Spaces, Classification of subsets and the Space of Fractals, Transformations on Metric Spaces, Contraction Mappings, and the Construction of Fractals Chaotic Dynamics on Fractals, Hausdorff Measure and Dimension, Alternate definitions of Dimensions and Techniques for calculating the dimension, Graphs of Functions and Fractal Interpolations, Iteration of Complex Functions: Julia Sets and Mandelbrot Sets, Measures on Fractals."
+  },
+  {
+    "name": "Generalized Linear Models",
+    "code": "MA6202",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): An outline of GLMs, Components, Exponential Family, Link Functions, Inference, Maximum Likelihood Estimation procedure for GLMs, Model diagnostics, Model selection, Models for Binary responses, Poisson regression and log-linear models, Multinomial Response Models, Bayesian GLMs."
+  },
+  {
+    "name": "Statistical Analysis of Network",
+    "code": "MA6XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Network data, network graph, representation and visualization, mapping dynamic network; Network graph characteristics: degree, centrality, local density, connectivity, graph partitioning, assortativity, mixing; Sampling and estimation: subgraph sampling, estimation of vertex total, total on vertex pairs, total on higher order, network group estimation; Models: random graph, small world, network growth, exponential random graph; Scoring methods, Gaussian graphical model network, inference on the tree, hierarchical clustering moment-based method; Model prediction for process on network graph: nearest neighbor, Markov random field, kernel-based regression, dynamic process; Network flow data analysis, traffic matrix estimation, direct and indirect graphical models."
+  },
+  {
+    "name": "Statistical Learning: Theory and Applications",
+    "code": "MA6XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Overview of nearest neighbor, decision theory, roughness penalty regression, Bayesian method; Linear and quadratic discriminant analysis, regularized logistic regression, separating hyperplanes; Basis expansion and regularization: splines, filtering, and feature extraction, bias-variance trade-off; Kernel smoothing methods: kernel density estimation and classification, naive Bayes classifier, radial functions; Model assessment and selection: AIC, BIC, VC dimension, cross-validation, bootstrap; Regression tree, classification tree; Neural network: multi- layer perceptron, feed-forward and recurrent networks, self organizing map; Support vector machines, data depths; Cluster analysis: K means clustering, independent component analysis; Random forest."
+  },
+  {
+    "name": "Advanced Analysis",
+    "code": "MA7021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Review of Normed Linear Spaces and Banach Spaces, Continuous linear functional, Dual Spaces and Hahn-Banach Theorems. Application of Baire\u2019s Category theorem: Uniform Boundedness Principle, Open mapping theorem and Closed Graph Theorem. Review of Hilbert Spaces, Orthogonally, Orthonormal bases, Riesz Lemma. Bounded Operators: Adjoint, Normal, Self-Adjoint, Unitary, Compact and Projection operators. Unbounded operators, Weak and Weak* Convergence. Complex Analysis: Review of Cauchy-Riemann equation and holomorphic functions. Basic properties of holomorphic functions, open mapping theorem, maximum modulus theorem, zeros of holomorphic functions, Schwarz Lemma, Riemann mapping theorem, meromorphic functions, essential singularities and Picard's theorem. theorem, Weierstrass factorisation"
+  },
+  {
+    "name": "Measurements in Thermal Engineering",
+    "code": "ME5022",
+    "status": "Elective",
+    "credits": "2-0-2-3",
+    "gradLevel": "PG",
+    "description": "Introduction to measurements.Measurement categories-primary and derived quantities, intrusive and non-intrusive methods;Analysis of experimental data- types of errors, uncertainty analysis, propagation of uncertainty; Statistical analysis of experimental data- normal error distributions (confidence interval and level of significance, Chauvenet\u2019s criterion), Chi-square test of goodness of fit, method of least squares (regression analysis, correlation coefficient), multivariable regression, Students\u2019 t-distribution, graphical analysis and curve fitting. Static and dynamic characteristics; System response- first and second order systems and analysis, Measurement of temperature- thermoelectric thermometry, resistance thermometry, pyrometry, liquid in glass, bimetallic and liquid crystal thermometer, temperature sensors for measurement of transient temperature; Measurement of pressure-U-tube manometer, Bourdon gage, pressure transducers, measurement of transient and vacuum pressures. Measurement of volume flow rate- variable area type flow meter- orifice plate meter, flow nozzle, venture meter, rotameter. Measurement of velocity- Pitot static and impact probes, velocity measurement based on thermal effect, Doppler velocimetry, Time of flight velocimetry"
+  },
+  {
+    "name": "Composite Materials",
+    "code": "ME5023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to types of composites: metal matrix, ceramic matrix, polymer matrix and carbon-carbon composites; Characteristics of polymer matrices, Method of preparation of fibres (glass and carbon), characteristics of different types of fibers; Processing of fibre reinforced polymer matrix composites. Micromechanics and prediction of elastic constants of continuous and short fiber composites; Strength of composites; Constitutive relations, failure modes and failure theories for an orthotropic lamina; Behavior of laminated composites, classical laminate theory (CLT); Analysis of Laminates for first ply failure, progressive failure and for hygro- thermal loads using CLT. Interlaminar stresses and their significance, Test methods for characterization of composite elastic constants and strength; Strength of notched laminates."
+  },
+  {
+    "name": "Compressible Flow",
+    "code": "ME5025",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Review of fluid flow and thermodynamics; Density change; Differences between compressible and incompressible flow; Ideal gas; Basic conservation equations and examples of their use; Wave propagation, speed of sound, Mach number; One-dimensional flow equations, normal shocks, one-dimensional duct flow with heat transfer; One-dimensional duct flow with friction; Oblique shock waves; Prandtl-Meyer expansion waves; Isentropic flow of a calorically perfect gas through ducts of variable area; Diffusers."
+  },
+  {
+    "name": "Introduction to Continuum Mechanics",
+    "code": "ME5027",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to tensor: tensor algebra, tensor calculus; Kinematics: reference and deformed configurations, motion and deformation of body, strains, strain rates; Concept of stress: Cauchy stress, Piola-Kirchhoff stresses, Cauchy theorem; Balance laws: mass balance, linear and angular momentum balance, energy balance, Clausius-Duhem inequality; Frame indifference; Material symmetry; Definition of solids and fluids; Constitutive relations; Elastic materials: nonlinear elasticity, linearized elasticity; Introduction to viscoelasticity and plasticity; Some boundary and initial- boundary value problems from solid mechanics and fluid mechanics."
+  },
+  {
+    "name": "Abrasive Machining and Finishing Processes",
+    "code": "ME5031",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction to abrasive processes; Conventional abrasive processes: Grinding process, grinding fluids and its emissions, honing, lapping and super finishing, surface integrity in abrasive process; Mass abrasive finishing processes: Vibratory bowl finishing, tumbling, drag finishing, sand blasting; Abrasive based advanced machining process: Abrasive jet machining, abrasive water jet machining, ultrasonic machining; Hybrid abrasive machining processes: Electrical discharge grinding, powder mixed electrical discharge machining, electro-chemical grinding, electro- chemical honing; Advanced abrasive finishing processes: Abrasive flow finishing, magneto rheological finishing, magnetic field assisted abrasive finishing."
+  },
+  {
+    "name": "Tribology and Surface Engineering",
+    "code": "ME5033",
+    "status": "Elective",
+    "credits": "3-0-2-4",
+    "gradLevel": "UG",
+    "description": "Introduction and scope of tribology and surface engineering; An analysis of interactions between solid surfaces at the molecular and atomic level; Contact between macroscopic surfaces; Friction and lubrication; Sliding wear, abrasive wear and erosive wear; Surface engineering processing techniques: chemical modification of surfaces, mechanical modification of surfaces, deposition processes for coatings; Characterization of engineered surfaces; Experiments and case studies based on tribology and surface engineering."
+  },
+  {
+    "name": "Computational Fluid Dynamics",
+    "code": "ME5101",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: Governing equations for fluid flow and heat transfer, classifications of PDE, finite difference formulation, various aspects of finite difference equation, error and stability analysis, dissipation and dispersion errors, modified equations; Solutions of simultaneous equations: iterative and direct methods, TDMA, ADI; Elliptic PDE: One- and Twodimensional steady heat conduction and their solutions, extension to three-dimensional; Parabolic PDE: Unsteady heat conduction, explicit and implicit methods, solution of boundary layer equation, upwinding; Solution of incompressible N-S equation: Stream function and vorticity formulation, primitive variable methods: MAC and SIMPLE"
+  },
+  {
+    "name": "Computational Fluid Dynamics",
+    "code": "ME5101",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: Governing equations for fluid flow and heat transfer, classifications of PDE, finite difference formulation, various aspects of finite difference equation, error and stability analysis, dissipation and dispersion errors, modified equations; Solutions of simultaneous equations: iterative and direct methods, TDMA, ADI; Elliptic PDE: One- and Twodimensional steady heat conduction and their solutions, extension to three-dimensional; Parabolic PDE: Unsteady heat conduction, explicit and implicit methods, solution of boundary layer equation, upwinding; Solution of incompressible N-S equation: Stream function and vorticity formulation, primitive variable methods: MAC and SIMPLE"
+  },
+  {
+    "name": "Joining Technologies",
+    "code": "ME5103",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Aim of this subject is to develop in-depth understanding on joining techniques namely welding, brazing, soldering and adhesive bonding. The course deals in detail with fundamentals of the arc generation, various metal transfer phenomenon, critical reviews of important welding processes and the heat flow involved in the welding processes, and its subsequent effect on the weldment distortion and residual stresses. Furthermore, the principles and various technologies related to brazing, soldering and adhesive bonding will be explained in detail. Welding \u2013 welding and allied processes, physics of welding arc, various metal transfer phenomenon; critical review of fusion welding processes \u2013 SMAW, TIG, MIG and CO2 welding, plasma arc, SAW, resistance welding; critical review of solid state welding processes \u2013 friction welding, friction stir welding, diffusion welding, ultra sonic welding; scope and application of electron beam and laser welding processes; heat and fluid flow in welding, residual stresses and its measurement, welding distortions and its prevention. Brazing and soldering \u2013 basic principles, various metals/solders and fluxes, design of brazed/soldered joints. Adhesive bonding \u2013 basic principles, functions of adhesives, mechanism of adhesion, failure in adhesive bonded joints, joint design. technologies, brazing filler"
+  },
+  {
+    "name": "Advanced Fluid Mechanics",
+    "code": "ME5104",
+    "status": "Core Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: vectors, tensors, notation; Kinematics: Lagrangian and Eulerian descriptions, streamlines, stress and strain, vorticity, circulation, stream function, cylindrical and polar coordinates; Conservation laws: equations for conservation of mass, momentum and energy, Bernoulli equation; Vorticity dynamics: Kelvin's circulation theorem, vorticity equation, interaction of vortices; Irrotational flow: complex variables, elementary flows, superposition, conformal mapping, numerical solutions, axisymmetric flows, 3-D flows; Laminar flow solutions: diffusion; exact analytical solutions, similarity solutions; Laminar boundary layers: introduction to the boundary layer approximation, flat plate, Blasius solution, Faulkner-Skan flow, separation, cylinders and spheres, free shear flows; Low Reynolds number flows: creeping flow, Stokes flow, lubrication theory."
+  },
+  {
+    "name": "Advanced Fluid Mechanics",
+    "code": "ME5104",
+    "status": "Core Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: vectors, tensors, notation; Kinematics: Lagrangian and Eulerian descriptions, streamlines, stress and strain, vorticity, circulation, stream function, cylindrical and polar coordinates; Conservation laws: equations for conservation of mass, momentum and energy, Bernoulli equation; Vorticity dynamics: Kelvin's circulation theorem, vorticity equation, interaction of vortices; Irrotational flow: complex variables, elementary flows, superposition, conformal mapping, numerical solutions, axisymmetric flows, 3-D flows; Laminar flow solutions: diffusion; exact analytical solutions, similarity solutions; Laminar boundary layers: introduction to the boundary layer approximation, flat plate, Blasius solution, Faulkner-Skan flow, separation, cylinders and spheres, free shear flows; Low Reynolds number flows: creeping flow, Stokes flow, lubrication theory."
+  },
+  {
+    "name": "Advanced Fluid Mechanics",
+    "code": "ME5104",
+    "status": "Core Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction: vectors, tensors, notation; Kinematics: Lagrangian and Eulerian descriptions, streamlines, stress and strain, vorticity, circulation, stream function, cylindrical and polar coordinates; Conservation laws: equations for conservation of mass, momentum and energy, Bernoulli equation; Vorticity dynamics: Kelvin's circulation theorem, vorticity equation, interaction of vortices; Irrotational flow: complex variables, elementary flows, superposition, conformal mapping, numerical solutions, axisymmetric flows, 3-D flows; Laminar flow solutions: diffusion; exact analytical solutions, similarity solutions; Laminar boundary layers: introduction to the boundary layer approximation, flat plate, Blasius solution, Faulkner-Skan flow, separation, cylinders and spheres, free shear flows; Low Reynolds number flows: creeping flow, Stokes flow, lubrication theory."
+  },
+  {
+    "name": "Additive Manufacturing",
+    "code": "ME5111",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Content words): Introduction to Additive Manufacturing (AM) - Reverse engineering, Different AM processes and relevant process physics, AM process chain, Application level: Direct processes \u2013 Rapid Prototyping, Rapid Tooling. Rapid Manufacturing; Indirect Processes - Indirect Prototyping. Indirect Tooling, Indirect Manufacturing, Materials science for AM - multifunctional and graded materials in AM, Role of solidification rate, Evolution of non-equilibrium structure, microstructural studies, Structure property relationship, AM technologies - Powder-based, droplet based, extrusion based, object stereolithography, Micro- and nano-additive processes, Mathematical models for AM, Selection of AM technologies using decision methods, AM process plan, Monitoring and control of defects, transformation."
+  },
+  {
+    "name": "Convective Heat Transfer",
+    "code": "ME5210",
+    "status": "Core Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Governing equations for mass, momentum and energy; Boundary layer approximations; Laminar external flow and heat transfer: Blasius, Falkner-Skan and Eckert solutions, integral method solutions, Duhamel\u2019s method, von Karman-Pohlhausen method; Laminar internal flow and heat transfer: exact solutions to Navier-Stokes equations, fully developed forced convection in pipes, Graetz solution, heat transfer in the combined entrance region; Natural convection heat transfer: Boussinesq approximation, dimensional analysis, similarity solutions, natural and mixed convection in enclosures, mixed convection over vertical plate; Turbulent convection: RANS equations, Reynolds, Prandtl-Taylor and von Karman analogies, turbulent flow and heat transfer across flat plate and circular tube, turbulent natural convection."
+  },
+  {
+    "name": "Convective Heat Transfer",
+    "code": "ME5210",
+    "status": "Core Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Governing equations for mass, momentum and energy; Boundary layer approximations; Laminar external flow and heat transfer: Blasius, Falkner-Skan and Eckert solutions, integral method solutions, Duhamel\u2019s method, von Karman-Pohlhausen method; Laminar internal flow and heat transfer: exact solutions to Navier-Stokes equations, fully developed forced convection in pipes, Graetz solution, heat transfer in the combined entrance region; Natural convection heat transfer: Boussinesq approximation, dimensional analysis, similarity solutions, natural and mixed convection in enclosures, mixed convection over vertical plate; Turbulent convection: RANS equations, Reynolds, Prandtl-Taylor and von Karman analogies, turbulent flow and heat transfer across flat plate and circular tube, turbulent natural convection."
+  },
+  {
+    "name": "Mechanics and Control of Robotic Manipulators",
+    "code": "ME5221",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Manipulator kinematics: transformations, different notations, forward and inverse kinematics; Differential kinematics and statics: Jacobian matrix and workspace singularities; Manipulator dynamics: forward and inverse dynamics; Lagrangian and Newton-Euler formulations; Dynamic modeling and computer simulation; Control of robotic manipulators: joint space and task- space control schemes, trajectory generation; Robot programming: robot operating system (ROS); Classical control concepts: control of a single link, independent joint PID control, Control of a multi- link manipulator."
+  },
+  {
+    "name": "Wheeled Mobile Robots",
+    "code": "ME5222",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Mobile robots and mobile manipulators; Ground robots; Aerial robots; Underwater robots and water surface robots; Kinematics and dynamics of wheeled mobile robots; Sensors for localization and navigation: magnetic and optical position sensor, gyroscope, accelerometer, magnetic compass, inclinometer, tactile and proximity sensors, ultrasound rangefinder, laser scanner, infrared rangefinder, visual and motion sensing systems; Mobile robot navigation; Intelligent navigation schemes; Motion and path planning; Collision free path planning and sensor- based obstacle avoidance; Swarm robots and robot communication systems; Motion control of mobile robots; Lyapunov based motion control designs and intelligent motion control schemes."
+  },
+  {
+    "name": "Robotic Control Systems",
+    "code": "ME5223",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Overview of robotic systems and their dynamics; Forward and inverse dynamics; Properties of the dynamic model and case studies; Nonlinear systems and control schemes; System stability and types of stability; Lyapunov stability analysis, both direct and indirect methods; Lemmas and theorems related to stability analysis; Joint space and task space control schemes: Position control, velocity control, trajectory control and force control; Nonlinear control schemes; Observer based on acceleration, velocity and position feedback; Numerical simulations using software packages namely MATLAB/MATHEMATICA."
+  },
+  {
+    "name": "Advanced Solidification Processes",
+    "code": "ME5XXX",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Introduction and advances in metal casting processes; Crystals and melts; Thermodynamics of crystal-melt phase change; Solidification of pure materials; Macro-scale phenomena; Macro-segregation; Plane front solidification; Composition control; Crystal melt interfaces; Constitutional supercooling; Linear morphological stability; Non-linear stability models; Nucleation catalysis; Microstructure evolution; Dendritic growth; Micro-segregation; Interface structure and growth kinetics; Polyphase solidification; Rapid solidification; Casting defects, properties and simulations; Foundry industry tour and experiments."
+  },
+  {
+    "name": "Vibrations of Discrete Systems",
+    "code": "ME5XXX",
+    "status": "Core Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Modelling strategies, linearization of non-linear systems, static equilibrium, stability about equilibrium points; Single DoF system, equivalent spring mass dampers, Newton's method for equations of motion, viscous and Coulomb damping, system with proportional damping; Response to initial conditions and excitations, superposition, response to non-periodic excitations; Properties of mode shapes, coordinate transformations, response of two and multi DoF systems subjected to initial conditions and excitations; Transfer function method, frequency response functions (FRFs); Lagrange's equation of motion; Computational methods for vibration analyses."
+  },
+  {
+    "name": "Vibrations of Discrete Systems",
+    "code": "ME5XXX",
+    "status": "Core Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Modelling strategies, linearization of non-linear systems, static equilibrium, stability about equilibrium points; Single DoF system, equivalent spring mass dampers, Newton's method for equations of motion, viscous and Coulomb damping, system with proportional damping; Response to initial conditions and excitations, superposition, response to non-periodic excitations; Properties of mode shapes, coordinate transformations, response of two and multi DoF systems subjected to initial conditions and excitations; Transfer function method, frequency response functions (FRFs); Lagrange's equation of motion; Computational methods for vibration analyses."
+  },
+  {
+    "name": "Advanced Thermodynamics",
+    "code": "ME6021",
+    "status": "Elective",
+    "credits": "2-1-0-3",
+    "gradLevel": "PG",
+    "description": "Recapitulation of fundamentals: Laws of thermodynamics, second law analysis of closed and open systems, exergy analysis: concepts, exergy balance, exergy transfer, exergetic efficiency, exergy analysis of power and refrigeration cycles. Combustion and thermochemistry: reactant and product mixtures, adiabatic flame temperature, chemical equilibrium, rudiments of mass transfer, Stephan's problem, droplet evaporation, thermal analysis of reacting systems, types of fixed mass reactors, conservation equations for reacting flows, introduction to premixed and diffusion flames."
+  },
+  {
+    "name": "Pollutant Formation and Control in Combustion",
+    "code": "ME6025",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Principles of combustion; Chemical kinetics; Chemical equilibrium; Fuels; Alternative fuels; Flammability limits; Laminar premixed flames; Laminar diffusion flames; Turbulent flames; Droplet evaporation and burning; Mechanisms of combustion generated air pollution; Measurement methods for pollutants; In-situ optical measurement methods; Emission standards across the world; Pollution formation control techniques; Exhaust gas re-circulation; Dilution methods; After treatment methods: catalytic converters, selective catalytic reduction, gas scrubbing process, lean NOx trap; Case studies on clean combustion technologies related to IC engines and gas turbines."
+  },
+  {
+    "name": "Introduction to Quantum Entanglement and\rQuantum Computing",
+    "code": "PH5021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Description of a mechanical system in classical and quantum physics, classical vs. quantum uncertainty; Quantum entanglement, Einstein-Podolsky-Rosen paradox, correlations in quantum measurements, Bell\u2019s inequalities; Classical vs. quantum computing, brief review of classical logic gates, bits vs. qubits, Bloch sphere description of qubits; Universal quantum logic gates, Pauli gates, Hadamard gate, Swap gate etc.; Physical qubits; Multi-qubit quantum gates; Complete solution to Deutsch-Jozsa algorithm, introduction to Grover and Shor algorithm, no- cloning theorem and quantum teleportation, quantum dense coding, quantum cryptography; Time- delay in quantum information processing; Race for quantum supremacy; Recent advancements toward realization of quantum communication and computation protocols."
+  },
+  {
+    "name": "Basics and Applications of Plasma\rPhysics",
+    "code": "PH6021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Definition of plasma, types of plasma, basic plasma parameters, Debye shielding, quasi neutrality, natural oscillation, basic characteristics of electric discharge, Paschen law, plasma generation; Electrical diagnostics: basic overview, current voltage characteristics, transition region, electron saturation current, floating potential, determination of plasma parameters using Langmuir probe; Optical diagnostics: basic overview, thermodynamic equilibrium, cross-section and reaction rates, simple non-equilibrium plasma kinetic models, estimation of plasma parameters using absolute and relative emission intensities, plasma based advance oxidation, plasma liquid interaction, application of non-thermal plasmas."
+  },
+  {
+    "name": "Fundamentals of Laser Physics",
+    "code": "PH6022",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Classical optics essentials: Fabry-Perot interferometer, Gaussian beams, resonator theory, cavity modes. Quantum optics essentials: photon statistics, coherence theory. Light matter interaction: resonant interaction - two level model, Rabi oscillation, density matrix, Bloch sphere, non-resonant interaction. Semiclassical theory of light matter interaction: linear and non-linear response, classical anharmonic oscillator model, dispersion, Wigner-Weisskopf theory. Laser theory: 2,3-level schemes, Einstein equations, stimulated emission, spontaneous emission and absorption, Einstein coefficients, population inversion, optical amplification, rate equations, laser oscillation, lasing threshold, gain, hole burning, Lamb dip. Line broadening effects: Doppler and collisional. Laser examples: semiconductor, solid state and gas phase. Ultrashort pulses: generation by Q-switching, mode-locking, characterization by auto-correlation, FROG - frequency resolved optical grating."
+  },
+  {
+    "name": "Magnetism and Superconductivity",
+    "code": "PH6023",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Magnetism: magnetic dipole moment, orbital and spin contributions, paramagnetism, exchange interactions and different types of magnetic order, mean field approximation, magnetic anisotropy, magnetic domains and wall, single domain particles, magnetization reversal mechanisms, hard magnets, soft magnets, magnetostriction, magnetoresistance, Hubbard model. Superconductivity: experimental observations - transition temperature, Meissner-Ochsenfeld effect, type I and II superconductors; phenomenological description - thermodynamics, London and Pippard\u2019s equations, Ginzburg-Landau theory; microscopic theory - Cooper pairs, Bardeen-Cooper-Schrieffer ground state, excitation, energy gap, tunneling, critical current; flux quantization - Josephson effect, pair tunneling, quantum interference, high-temperature superconductors."
+  },
+  {
+    "name": "Introduction to Condensed Matter Theory",
+    "code": "PH6121",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Characteristic scales, order and disorder, collective modes and elementary excitations; Non-interacting electrons: Drude and Sommerfeld models, heat and electrical conductivity, band theory and semiconductor physics; Interacting electrons: Fermi-liquid theory, Hubbard and Heisenberg models, perturbation and mean-field theories; Green's functions and equation of motion methods; Linear response theory and Kubo formula; Transport in mesoscopic systems; Phase transitions and broken symmetry; Special topics: magnetism, Kondo problem, superfluidity and superconductivity, topological phases of matter."
+  },
+  {
+    "name": "Physical Techniques in Materials\rScience",
+    "code": "PH7021",
+    "status": "Elective",
+    "credits": "3-0-0-3",
+    "gradLevel": "PG",
+    "description": "Various material synthesis methods of bulk single crystals and thin films. Scattering and spectroscopy: X-ray diffraction, Neutron scattering, EPR/ NMR /NQR, Moessbauer spectroscopy, Muon Spin Rotation. Microscopy: SEM, TEM, STM, AFM, etc. Cryogenic physics: different cryostats; and thermodynamic properties: specific heat, thermal expansion, thermal conductivity, DSC, TGA, transport properties, magnetic properties, Hall effect; measurements at extreme conditions: very low temperatures, high pressure and high magnetic fields."
+  },
+  {
+    "name": "Foundation of Experimental Physics",
+    "code": "PH7101",
+    "status": "Core Elective",
+    "credits": "4-0-0-4",
+    "gradLevel": "PG",
+    "description": "Scattering, spectroscopy, microscopy, and resonance techniques: X-ray and neutron scattering, electron microscopy, electron spin resonance, nuclear magnetic resonance, nuclear quadrupole resonance, muon spin rotation; Thermal characterization: different cryostats, vacuum technology, thermogravimetric analysis, differential thermal analysis, differential scanning calorimetry, specific heat, thermal expansion, thermal conductivity, transport and magnetic properties; Optics and spectroscopy: Laser cooling and trapping, Fabry-Perot interferometer, opto- fluorescence spectroscopy, coherent galvanic spectroscopy, Doppler spectroscopy, microwave spectroscopy, molecular beam spectroscopy, optical pumping; Plasma: Laboratory plasma generation techniques, optical diagnostic, electrical diagnostic, laser induced breakdown spectroscopy, identification and characterization of plasma produced radicals. free spectroscopy,"
+  },
+  {
+    "name": "Foundation of Experimental Physics",
+    "code": "PH7101",
+    "status": "Core Elective",
+    "credits": "4-0-0-4",
+    "gradLevel": "PG",
+    "description": "Scattering, spectroscopy, microscopy, and resonance techniques: X-ray and neutron scattering, electron microscopy, electron spin resonance, nuclear magnetic resonance, nuclear quadrupole resonance, muon spin rotation; Thermal characterization: different cryostats, vacuum technology, thermogravimetric analysis, differential thermal analysis, differential scanning calorimetry, specific heat, thermal expansion, thermal conductivity, transport and magnetic properties; Optics and spectroscopy: Laser cooling and trapping, Fabry-Perot interferometer, opto- fluorescence spectroscopy, coherent galvanic spectroscopy, Doppler spectroscopy, microwave spectroscopy, molecular beam spectroscopy, optical pumping; Plasma: Laboratory plasma generation techniques, optical diagnostic, electrical diagnostic, laser induced breakdown spectroscopy, identification and characterization of plasma produced radicals. free spectroscopy,"
+  },
+  {
+    "name": "Foundations of Theoretical Physics",
+    "code": "PH7103",
+    "status": "Core Elective",
+    "credits": "4-0-0-4",
+    "gradLevel": "PG",
+    "description": "Mechanics in non-inertial frame, fluid mechanics, Lagrange and Hamiltonian formalism, conservation laws and symmetry, central force, theory of relativity, chaos theory. Maxwell's equations, multipole expansion, wave equation, Poynting theorem, Fresnel equations, retarded potentials, electromagnetic field transformations, Jefimenko's equation. Generalized uncertainty principle, Schroedinger, Heisenberg and Dirac pictures, correlation, entanglement, Bell's inequalities, path integrals, spectroscopy and scattering theory, many body theory, relativistic quantum mechanics. Microstate, macrostate, ergodicity, ensembles: partition function and probability distribution, thermodynamic potential, entropy, quantum statistics: density operator, von Neumann entropy, statistics of Bosons and Fermions, interacting systems, phase transitions, laser cooling, Bose-Einstein condensate."
+  },
+  {
+    "name": "Foundations of Theoretical Physics",
+    "code": "PH7103",
+    "status": "Core Elective",
+    "credits": "4-0-0-4",
+    "gradLevel": "PG",
+    "description": "Mechanics in non-inertial frame, fluid mechanics, Lagrange and Hamiltonian formalism, conservation laws and symmetry, central force, theory of relativity, chaos theory. Maxwell's equations, multipole expansion, wave equation, Poynting theorem, Fresnel equations, retarded potentials, electromagnetic field transformations, Jefimenko's equation. Generalized uncertainty principle, Schroedinger, Heisenberg and Dirac pictures, correlation, entanglement, Bell's inequalities, path integrals, spectroscopy and scattering theory, many body theory, relativistic quantum mechanics. Microstate, macrostate, ergodicity, ensembles: partition function and probability distribution, thermodynamic potential, entropy, quantum statistics: density operator, von Neumann entropy, statistics of Bosons and Fermions, interacting systems, phase transitions, laser cooling, Bose-Einstein condensate."
+  }
+]
