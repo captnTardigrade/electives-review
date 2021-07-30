@@ -4,19 +4,19 @@
         const electiveId = <%- JSON.stringify(elective._id) %>
     </script>
 
-    <div class="p-5 mb-4 bg-light rounded-3">
+    <div class="p-5  mb-4 bg-light rounded-3">
         <div class="container-fluid d-flex py-5">
-            <div class="row align-items-center">
+            <div class="row text-dark align-items-center">
                 <div class="col-md-9 text-center text-md-start col-sm-12">
                     <h1 class="display-5 fw-bold">
-                        <%= elective.name.toUpperCase() %>
+                        <%= `${elective.code.toUpperCase()} ${elective.name}`.toUpperCase() %>
                     </h1>
                     <p class="col-md-8 fs-4">
-                        <%= elective.description %>
+                        <%= elective.description.split(" ").slice(0, 25).join(" ") %>...
                     </p>
                     <hr>
                     <p class="h5">Credits: <%= elective.credits %></p>
-                    <a href="<%= elective.url %> ">View course PDF <img class="external-link-icon" src="/images/external_link_icon.svg" alt=""></a> 
+                    <a href="<%= elective.url %>" class="course-url">View course PDF <img class="external-link-icon" src="/images/external_link_icon.svg" alt=""></a> 
                 </div>
                 <div class="d-flex flex-column col-md-3 align-items-center">
                     <p class="starability-result" data-rating="<%= Math.floor(elective.averageRating) %>">

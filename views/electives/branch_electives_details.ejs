@@ -1,0 +1,24 @@
+<%- layout("layouts/boilerplate") %>
+    <%- include("../partials/flash.ejs") %>
+        <% for(let elective of branchElectives) { %>
+            <div class="card branch-<%= elective.code.substring(0, 2) %> mb-3 p-3">
+                <div class="card-body">
+                    <div class="card-title">
+                        <div class="row">
+                            <div class="col-12 fw-bold mb-3 mb-md-0 col-md-8 col-xl-9">
+                                <%= `${elective.code.toUpperCase()} ${elective.name}`.toUpperCase() %>
+                            </div>
+                            <div class="col-3 col-md-3 px-md-3 px-xl-0">
+                                <p class="starability-result" data-rating="<%= Math.floor(elective.averageRating) %>">
+                                    Rated: <%= Math.floor(elective.averageRating) %> stars
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="card-text">
+                        <%= elective.description.split(" ").slice(0, 25).join(" ") %>...
+                    </p>
+                    <a href=" /electives/<%=elective._id %>" class="btn btn-success">Details</a>
+                </div>
+            </div>
+            <% } %>

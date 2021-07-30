@@ -19,7 +19,8 @@ const LocalStrategy = require("passport-local");
 const ExpressError = require("./utils/ExpressError");
 const MongoDBStore = require("connect-mongo");
 
-const dbUrl = process.env.MONGO_DB_URL || "mongodb://localhost:27017/electives-review";
+const dbUrl =
+  process.env.MONGO_DB_URL || "mongodb://localhost:27017/electives-review";
 
 mongoose.connect(dbUrl, {
   useNewUrlParser: true,
@@ -82,12 +83,20 @@ app.use("/electives/:id/reviews", reviewRoutes);
 
 app.get("/", async (req, res) => {
   const electives = await Elective.find({});
-  res.render("home", { electives });
+  const categories = [
+    "CE",
+    "CH",
+    "CS",
+    "CY",
+    "EE",
+    "HS",
+    "MA",
+    "ME",
+    "PH",
+    "ID",
+  ];
+  res.render("home", { categories });
 });
-
-app.get("/stars", (req, res) => {
-  res.render("test");
-})
 
 app.get("*", (req, res) => {
   throw new ExpressError("Page Not Found", 404);

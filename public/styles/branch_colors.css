@@ -1,0 +1,57 @@
+body, a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover {
+    color: black;
+  }
+  
+  a.course-url {
+    color: black;
+  }
+  
+  a.course-url:hover {
+    color: #FFCA2C;
+  }
+  
+  .branch-CS {
+    background-color: #d33f49;
+  }
+  
+  .branch-CE {
+    background-color: #90aa86;
+  }
+  
+  .branch-CH {
+    background-color: #083d77;
+  }
+  
+  .branch-EE {
+    background-color: #ee9344;
+  }
+  
+  .branch-HS {
+    background-color: #ffb2e6;
+  }
+  
+  .branch-ID {
+    background-color: #8ac4ff;
+  }
+  
+  .branch-MA {
+    background-color: #f8c7cc;
+  }
+  
+  .branch-ME {
+    background-color: #b118c8;
+  }
+  
+  .branch-PH {
+    background-color: #8ea4d2;
+  }
+  
+  .branch-CY {
+    background-color: #d0bcd5;
+  }
+  
