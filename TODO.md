@@ -1,5 +1,0 @@
-- [ ] IMPORTANT: Add security
-- [ ] Collect data
-- [ ] Restructure `ElectivesSchema`
-- [ ] Add search and filters functionality
-- [ ] Improve design
