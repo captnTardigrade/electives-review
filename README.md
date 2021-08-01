@@ -8,7 +8,7 @@ Please keep in mind that this app is not production ready because a few critical
 
 ## TODO
 - [ ] IMPORTANT: Add security
-- [ ] IMPORTANT: Add Email Verification
+- [x] IMPORTANT: Add Email Verification
 - [ ] Add NPTEL courses data
 - [ ] Add pagination to all electives page
 - [ ] Fix some data

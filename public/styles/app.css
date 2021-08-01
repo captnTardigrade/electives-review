@@ -1,11 +1,10 @@
-#signup-form-button {
-  background-color: #14213d;
+#login {
+  background-color: #64aca1;
   color: white;
 }
 
-#login-form-button {
-  background-color: #fca311;
-  color: white;
+a.nav-link:hover {
+  color: #64aca1;
 }
 
 .external-link-icon {
