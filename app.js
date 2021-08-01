@@ -68,7 +68,7 @@ passport.use(
     {
       clientID: process.env.GOOGLE_CLIENT_ID,
       clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-      callbackURL: "http://localhost:3000/login/callback",
+      callbackURL: "https://pandos-electives-review.herokuapp.com/login/callback",
     },
     function (accessToken, refreshToken, profile, done) {
       User.findOne({ googleId: profile.id }, async (err, user) => {
