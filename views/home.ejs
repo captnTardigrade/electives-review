@@ -1,6 +1,7 @@
 <%- layout("layouts/boilerplate") %>
-<link rel="stylesheet" href="/styles/branch_colors.css">
-    <div class="row justify-content-center">
+    <%- include("partials/flash") %>
+        <link rel="stylesheet" href="/styles/branch_colors.css">
+        <div class="row justify-content-center">
             <% for(let i of categories) { %>
                 <a href="/electives/branch/<%= i %>" class="card col-3 mx-2 my-3 p-4 text-center branch-<%= i %> ">
                     <div class="card-body">
@@ -9,4 +10,4 @@
                 </a>
                 <% } %>
         </div>
-    </div>
+        </div>

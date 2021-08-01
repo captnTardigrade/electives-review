@@ -5,23 +5,22 @@ const passport = require("passport");
 const { isNotLoggedIn } = require("../middleware");
 const router = express.Router();
 
-router
-  .route("/login")
-  .get(isNotLoggedIn, users.renderLoginForm)
-  .post(
-    isNotLoggedIn,
-    passport.authenticate("local", {
-      failureRedirect: "/login",
-      failureFlash: true,
-      failureMessage: true,
-    }),
-    catchAsync(users.login)
-  );
+router.route("/login").get(
+  isNotLoggedIn,
+  passport.authenticate("google", {
+    scope: ["profile", "email"],
+  })
+);
 
-router
-  .route("/signup")
-  .get(isNotLoggedIn, users.renderSignupForm)
-  .post(isNotLoggedIn, catchAsync(users.signup));
+router.route("/login/callback").get(
+  isNotLoggedIn,
+  passport.authenticate("google", {
+    failureRedirect: "/",
+    failureFlash: "Could not log you in! Please try again",
+    successRedirect: "/",
+    successFlash: "Logged you in!",
+  })
+);
 
 router.get("/logout", users.logout);
 

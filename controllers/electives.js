@@ -25,10 +25,8 @@ module.exports.electiveDetails = async (req, res) => {
 
 module.exports.getBranchElectives = async (req, res) => {
   const { branch } = req.params;
-  console.log(branch);
   const regex = new RegExp(branch + "([0-9X]{4})");
   const branchElectives = await Elective.find({ code: regex });
-  console.log(branchElectives);
   res.render(`electives/branch_electives_details`, { branchElectives });
 };
 
