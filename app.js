@@ -8,16 +8,16 @@ const mongoose = require("mongoose");
 const flash = require("connect-flash");
 const methodOverride = require("method-override");
 const app = express();
-const Elective = require("./models/elective");
 const User = require("./models/user");
 const userRoutes = require("./routes/users");
 const reviewRoutes = require("./routes/reviews");
 const electiveRoutes = require("./routes/electives");
 const session = require("express-session");
 const passport = require("passport");
-const LocalStrategy = require("passport-local");
+const { reviewSchema, userSchema } = require("./utils/joiSchemas");
 const ExpressError = require("./utils/ExpressError");
 const MongoDBStore = require("connect-mongo");
+const GoogleStrategy = require("passport-google-oauth20").Strategy;
 
 const dbUrl =
   process.env.MONGO_DB_URL || "mongodb://localhost:27017/electives-review";
@@ -64,11 +64,44 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 passport.use(
-  new LocalStrategy({ usernameField: "email" }, User.authenticate())
+  new GoogleStrategy(
+    {
+      clientID: process.env.GOOGLE_CLIENT_ID,
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+      callbackURL: "http://localhost:3000/login/callback",
+    },
+    function (accessToken, refreshToken, profile, done) {
+      User.findOne({ googleId: profile.id }, async (err, user) => {
+        if (err) return done(err);
+        if (!user) {
+          const userObj = {
+            name: profile.displayName,
+            email: profile.emails[0].value,
+            googleId: profile.id,
+          };
+          const { error } = userSchema.validate(userObj);
+          if (error) {
+            return done(new ExpressError(error.details[0].message, 500));
+          }
+          const newUser = new User(userObj);
+          await newUser.save();
+          return done(err, newUser);
+        } else {
+          return done(err, user);
+        }
+      });
+    }
+  )
 );
 
-passport.serializeUser(User.serializeUser());
-passport.deserializeUser(User.deserializeUser());
+passport.serializeUser(function (user, done) {
+  done(null, user.id);
+});
+passport.deserializeUser(async function (id, done) {
+  await User.findById(id, function (err, user) {
+    done(err, user);
+  });
+});
 
 app.use((req, res, next) => {
   res.locals.error = req.flash("error");
@@ -82,7 +115,6 @@ app.use("/electives", electiveRoutes);
 app.use("/electives/:id/reviews", reviewRoutes);
 
 app.get("/", async (req, res) => {
-  const electives = await Elective.find({});
   const categories = [
     "CE",
     "CH",

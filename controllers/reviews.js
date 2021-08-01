@@ -12,7 +12,7 @@ module.exports.createReview = async (req, res) => {
     body,
     date: Date.now(),
   };
-  const { error } = reviewSchema.validate({ review });
+  const { error } = reviewSchema.validate(review);
   if (error) {
     throw new ExpressError(error.details[0].message, 500);
   }
@@ -34,7 +34,7 @@ module.exports.updateReview = async (req, res) => {
     body,
     date: Date.now(),
   };
-  const { error } = reviewSchema.validate({ review });
+  const { error } = reviewSchema.validate(review);
   if (error) {
     throw new ExpressError(error.details[0].message, 500);
   }
@@ -55,7 +55,6 @@ module.exports.deleteReview = async (req, res, next) => {
     (e) => next(e)
   );
   elective.averageRating = -1 * review.rating;
-  console.log(elective.averageRating);
   await elective.save();
   req.flash("success", "Successfully deleted review");
   res.redirect(`/electives/${id}`);
