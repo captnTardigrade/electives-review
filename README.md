@@ -10,6 +10,7 @@ Please keep in mind that this app is not production ready because a few critical
 - [ ] IMPORTANT: Add security
 - [x] IMPORTANT: Add Email Verification
 - [ ] Add NPTEL courses data
+- [ ] Handle joi user schema validation error
 - [ ] Add pagination to all electives page
 - [ ] Fix some data
 - [ ] Add sorting and filtering functionality
